@@ -1,0 +1,11 @@
+Name,Age,Department,Salary,Joining Date
+ Alice ,24,hr,50000,2020-01-15
+BOB,27, IT ,sixty_thousand,2019/03/22
+Charlie, ,Finance,55000,03-12-2018
+DAVID,32,marketing,58000,2018-07-01
+Ella,29,HR ,52000,2021-04-17
+bob,27,it,60000,2019/03/22
+,35,Finance,NaN,2017-08-11
+Zanele,28,,48000,not_available
+Thabo,NaN,IT,54000,2020-10-10
+ Ayanda ,30,hr,53000,2020-06-20

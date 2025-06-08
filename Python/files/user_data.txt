@@ -1,0 +1,5 @@
+Name:Kwanele
+Age:21Name:Sbusiso
+Age:25Name:Kabele
+Age:20Name:Sabelo
+Age:21

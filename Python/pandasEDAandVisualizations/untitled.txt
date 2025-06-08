@@ -1,0 +1,10 @@
+df['HireDate']=pd.to_datetime(df['HireDate'])
+df['MonthOfHire']=df['HireDate'].dt.strftime('%B')
+df['YearOfHire']=df['HireDate'].dt.year
+lDf=df.groupby(['YearOfHire','MonthOfHire'],as_index=False).agg({'EmployeeID':'count'})
+months_of_year=['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+lDf['MonthOfHire']=pd.Categorical(lDf['MonthOfHire'],categories=months_of_year,ordered=True)
+lDf.sort_values(by=['YearOfHire','MonthOfHire'],inplace=True)
+plt.style.use('tableau-colorblind10')
+lDf[lDf['YearOfHire']==2019].plot(kind='line',y='EmployeeID',x='MonthOfHire',title='Employees Hired Over The Year Of 2019',ylabel='Number Of Employees',xlabel='Months(2019)',color='green')
+plt.show()

@@ -1,0 +1,1001 @@
+EmployeeID,Name,Age,Gender,Department,JobRole,Education,YearsAtCompany,YearsInCurrentRole,TrainingHoursLastYear,MonthlyIncome,JobSatisfaction,PerformanceRating,Attrition
+10001,Employee_1,50,Female,HR,Manager,Bachelor's,21,0,16,4017,3,2,No
+10002,Employee_2,36,Female,Operations,Manager,Bachelor's,1,1,34,9957,2,4,No
+10003,Employee_3,29,Male,Operations,Manager,Bachelor's,12,13,45,18230,3,3,No
+10004,Employee_4,42,Female,R&D,Manager,High School,4,14,41,11420,1,4,No
+10005,Employee_5,40,Female,Operations,Analyst,Bachelor's,27,11,38,6792,1,3,Yes
+10006,Employee_6,44,Male,R&D,Consultant,Bachelor's,26,13,48,15237,3,1,No
+10007,Employee_7,32,Female,R&D,Analyst,Master's,24,8,61,18251,1,4,No
+10008,Employee_8,32,Female,R&D,Analyst,High School,7,12,37,12707,2,2,No
+10009,Employee_9,45,Female,Finance,Technician,Bachelor's,22,1,22,3438,4,2,No
+10010,Employee_10,57,Female,IT,Technician,Master's,0,1,21,5543,3,3,No
+10011,Employee_11,45,Female,R&D,Consultant,High School,19,5,3,13367,2,2,No
+10012,Employee_12,24,Female,R&D,Technician,Bachelor's,11,6,48,17520,2,4,No
+10013,Employee_13,43,Male,IT,Executive,Master's,22,12,58,8343,1,1,No
+10014,Employee_14,23,Male,Sales,Consultant,Master's,10,6,72,4263,2,3,No
+10015,Employee_15,45,Male,R&D,Technician,Master's,6,14,67,12161,3,4,No
+10016,Employee_16,51,Female,Finance,Consultant,Master's,14,12,70,2211,2,3,No
+10017,Employee_17,59,Male,Operations,Analyst,Master's,21,8,1,15809,4,1,Yes
+10018,Employee_18,23,Female,Operations,Analyst,Bachelor's,23,5,48,9027,2,3,No
+10019,Employee_19,42,Female,HR,Consultant,Master's,10,13,30,2331,2,2,No
+10020,Employee_20,54,Female,HR,Executive,High School,28,7,39,10169,4,2,No
+10021,Employee_21,33,Non-Binary,Operations,Executive,Master's,21,10,47,11133,2,3,Yes
+10022,Employee_22,43,Female,Operations,Consultant,Bachelor's,25,5,50,16591,2,1,No
+10023,Employee_23,46,Female,Finance,Technician,Bachelor's,15,1,42,18125,1,1,No
+10024,Employee_24,48,Male,IT,Engineer,Bachelor's,2,0,54,2727,3,2,No
+10025,Employee_25,49,Female,HR,Executive,Master's,19,4,48,13054,1,1,No
+10026,Employee_26,37,Male,IT,Manager,High School,13,13,79,5243,3,3,No
+10027,Employee_27,36,Male,Finance,Analyst,Master's,2,8,56,19032,4,4,No
+10028,Employee_28,24,Female,Operations,Consultant,Master's,0,7,76,7095,4,3,No
+10029,Employee_29,58,Female,R&D,Manager,Bachelor's,25,13,14,15809,4,2,No
+10030,Employee_30,28,Male,IT,Consultant,Master's,20,12,26,12929,3,2,No
+10031,Employee_31,42,Female,Operations,Analyst,Master's,14,3,67,16842,3,2,No
+10032,Employee_32,30,Female,Operations,Analyst,Bachelor's,0,4,79,19393,3,1,Yes
+10033,Employee_33,39,Female,Sales,Executive,Bachelor's,16,12,63,3550,4,3,No
+10034,Employee_34,25,Female,IT,Executive,Bachelor's,1,4,29,10995,3,4,No
+10035,Employee_35,46,Female,R&D,Manager,Bachelor's,28,5,35,17166,2,3,Yes
+10036,Employee_36,35,Non-Binary,IT,Consultant,Bachelor's,19,2,66,9492,1,4,No
+10037,Employee_37,30,Female,Operations,Analyst,Master's,5,4,48,14501,4,3,No
+10038,Employee_38,47,Female,R&D,Manager,High School,7,1,75,17567,1,2,No
+10039,Employee_39,23,Non-Binary,Finance,Engineer,Master's,28,9,54,15265,2,4,Yes
+10040,Employee_40,41,Non-Binary,Sales,Manager,Bachelor's,15,0,55,7424,3,3,No
+10041,Employee_41,49,Male,Operations,Technician,Bachelor's,18,10,67,16086,1,1,Yes
+10042,Employee_42,28,Male,HR,Manager,Master's,0,0,43,5161,2,1,Yes
+10043,Employee_43,29,Male,HR,Technician,Master's,2,9,30,11215,2,3,No
+10044,Employee_44,56,Male,Sales,Technician,Bachelor's,27,6,57,8617,1,2,No
+10045,Employee_45,35,Female,Finance,Technician,Bachelor's,2,1,52,13926,4,4,No
+10046,Employee_46,38,Female,Operations,Engineer,Bachelor's,4,3,78,17092,1,3,Yes
+10047,Employee_47,57,Female,IT,Manager,High School,26,4,22,18160,4,1,No
+10048,Employee_48,25,Male,Sales,Manager,Bachelor's,11,6,27,19560,3,4,Yes
+10049,Employee_49,23,Female,Finance,Engineer,Bachelor's,11,1,15,17638,4,1,No
+10050,Employee_50,27,Female,IT,Analyst,Bachelor's,19,13,36,4233,3,1,No
+10051,Employee_51,25,Female,HR,Executive,Master's,12,5,20,6700,1,3,No
+10052,Employee_52,50,Non-Binary,HR,Manager,Bachelor's,19,0,78,13027,3,1,Yes
+10053,Employee_53,39,Female,IT,Executive,Bachelor's,8,6,16,9860,2,4,No
+10054,Employee_54,47,Male,Sales,Consultant,Bachelor's,6,8,36,9526,3,2,No
+10055,Employee_55,55,Female,HR,Consultant,Master's,3,4,76,7559,4,3,No
+10056,Employee_56,31,Male,Operations,Engineer,Master's,18,4,18,8732,4,4,Yes
+10057,Employee_57,57,Male,R&D,Consultant,Bachelor's,21,3,29,4513,4,3,No
+10058,Employee_58,35,Female,IT,Consultant,Master's,18,2,44,9830,3,1,No
+10059,Employee_59,52,Male,IT,Analyst,Bachelor's,5,8,17,16781,4,1,No
+10060,Employee_60,36,Female,HR,Analyst,Bachelor's,26,4,77,9910,4,4,No
+10061,Employee_61,29,Male,Sales,Analyst,Bachelor's,12,7,61,17847,2,4,No
+10062,Employee_62,35,Female,Operations,Consultant,Bachelor's,10,8,35,7649,3,2,No
+10063,Employee_63,44,Male,Sales,Engineer,Master's,12,4,51,19480,2,4,Yes
+10064,Employee_64,42,Non-Binary,Finance,Technician,Master's,12,9,18,11120,4,4,Yes
+10065,Employee_65,37,Female,Finance,Technician,High School,27,8,43,3951,4,3,No
+10066,Employee_66,39,Male,R&D,Executive,Bachelor's,24,1,6,12165,4,1,No
+10067,Employee_67,45,Female,HR,Technician,Bachelor's,21,8,43,16352,3,4,No
+10068,Employee_68,47,Non-Binary,HR,Technician,High School,27,10,67,11746,1,2,No
+10069,Employee_69,46,Female,HR,Analyst,Bachelor's,19,3,33,12970,4,4,No
+10070,Employee_70,50,Male,R&D,Analyst,Bachelor's,14,5,65,11186,4,1,No
+10071,Employee_71,36,Female,Finance,Consultant,High School,20,5,68,10804,4,4,No
+10072,Employee_72,22,Female,Sales,Executive,Bachelor's,12,5,54,2595,4,3,No
+10073,Employee_73,46,Female,R&D,Manager,Bachelor's,21,1,9,9875,3,1,No
+10074,Employee_74,28,Female,R&D,Executive,Bachelor's,10,6,41,7972,1,4,No
+10075,Employee_75,30,Male,Sales,Executive,Master's,18,12,40,17882,1,3,No
+10076,Employee_76,45,Male,HR,Engineer,Bachelor's,7,5,76,2858,1,1,No
+10077,Employee_77,22,Female,Operations,Consultant,PhD,19,10,68,7519,4,4,Yes
+10078,Employee_78,29,Male,Sales,Engineer,Bachelor's,7,13,9,11980,4,3,Yes
+10079,Employee_79,45,Male,Finance,Executive,Master's,9,0,9,6317,1,2,No
+10080,Employee_80,32,Non-Binary,IT,Executive,Master's,25,1,59,14144,1,3,No
+10081,Employee_81,38,Female,IT,Executive,Bachelor's,15,6,50,14879,4,2,No
+10082,Employee_82,29,Female,R&D,Technician,Bachelor's,18,0,20,3030,4,4,No
+10083,Employee_83,56,Female,IT,Engineer,Master's,25,14,7,11487,2,3,Yes
+10084,Employee_84,56,Female,Operations,Executive,Bachelor's,22,0,64,15305,2,2,No
+10085,Employee_85,54,Female,HR,Analyst,Bachelor's,10,0,77,12255,2,1,Yes
+10086,Employee_86,26,Female,Finance,Consultant,Bachelor's,12,7,29,3447,1,3,Yes
+10087,Employee_87,49,Male,Operations,Consultant,Bachelor's,27,3,48,12237,3,4,No
+10088,Employee_88,28,Male,Finance,Analyst,High School,8,3,8,4850,4,1,No
+10089,Employee_89,30,Female,Finance,Consultant,Master's,19,12,16,13953,2,2,No
+10090,Employee_90,29,Female,HR,Technician,Bachelor's,23,1,68,10106,3,3,Yes
+10091,Employee_91,33,Male,R&D,Technician,Bachelor's,18,10,57,12000,4,3,No
+10092,Employee_92,55,Male,IT,Manager,Master's,15,10,56,11503,3,4,No
+10093,Employee_93,54,Male,HR,Manager,Bachelor's,6,10,61,17493,1,1,No
+10094,Employee_94,44,Male,Operations,Manager,PhD,18,0,51,6055,1,3,No
+10095,Employee_95,45,Female,R&D,Consultant,Bachelor's,11,11,60,7402,1,3,No
+10096,Employee_96,58,Male,Operations,Technician,High School,14,9,39,11281,2,1,No
+10097,Employee_97,56,Female,R&D,Technician,Master's,22,8,37,3672,4,3,No
+10098,Employee_98,43,Female,Operations,Technician,Bachelor's,13,6,42,6532,1,1,No
+10099,Employee_99,48,Female,HR,Analyst,Master's,10,3,62,6924,2,1,No
+10100,Employee_100,56,Female,R&D,Technician,PhD,25,11,18,17269,2,1,No
+10101,Employee_101,22,Male,R&D,Analyst,Master's,9,5,49,14546,2,4,No
+10102,Employee_102,56,Female,Finance,Manager,Bachelor's,26,13,32,8085,2,1,Yes
+10103,Employee_103,58,Male,Finance,Manager,Master's,10,1,12,14390,1,1,No
+10104,Employee_104,35,Male,Sales,Consultant,Bachelor's,5,6,77,15280,2,2,No
+10105,Employee_105,24,Non-Binary,Operations,Manager,Bachelor's,1,1,61,6864,1,2,No
+10106,Employee_106,22,Male,Finance,Consultant,Master's,10,9,42,11316,1,4,No
+10107,Employee_107,26,Male,Sales,Executive,Bachelor's,18,7,48,3221,2,1,No
+10108,Employee_108,47,Female,Finance,Executive,Master's,5,7,35,4860,1,2,No
+10109,Employee_109,35,Male,Operations,Engineer,Master's,13,0,9,12702,4,2,No
+10110,Employee_110,48,Female,R&D,Consultant,Master's,19,12,5,10428,4,3,No
+10111,Employee_111,30,Male,IT,Engineer,Bachelor's,5,7,56,17385,3,1,No
+10112,Employee_112,36,Non-Binary,Operations,Engineer,Master's,16,1,0,11336,4,2,No
+10113,Employee_113,36,Female,HR,Executive,Bachelor's,9,5,70,5253,1,4,No
+10114,Employee_114,47,Female,Finance,Consultant,Master's,27,12,57,5782,1,3,No
+10115,Employee_115,34,Non-Binary,Finance,Executive,Bachelor's,0,0,20,19150,4,3,No
+10116,Employee_116,53,Male,R&D,Engineer,High School,2,4,79,18343,2,1,Yes
+10117,Employee_117,53,Non-Binary,HR,Consultant,Bachelor's,7,10,55,11951,2,1,No
+10118,Employee_118,25,Male,R&D,Engineer,Bachelor's,7,6,19,18269,1,3,Yes
+10119,Employee_119,51,Female,HR,Technician,Bachelor's,26,12,53,16567,2,4,No
+10120,Employee_120,58,Male,IT,Consultant,Master's,19,9,24,13683,3,1,Yes
+10121,Employee_121,44,Female,Finance,Consultant,Bachelor's,21,0,27,5513,3,1,No
+10122,Employee_122,36,Male,Finance,Engineer,Bachelor's,14,14,4,18879,4,3,Yes
+10123,Employee_123,50,Female,IT,Technician,High School,23,1,20,15335,4,3,No
+10124,Employee_124,57,Female,Sales,Analyst,Bachelor's,6,6,17,13372,2,1,No
+10125,Employee_125,34,Non-Binary,R&D,Executive,Bachelor's,10,5,46,7822,1,2,No
+10126,Employee_126,53,Male,IT,Engineer,High School,6,2,69,16837,4,1,No
+10127,Employee_127,28,Female,R&D,Consultant,Bachelor's,28,13,56,14122,3,2,No
+10128,Employee_128,43,Female,Operations,Executive,Bachelor's,3,9,18,4072,4,3,No
+10129,Employee_129,49,Male,Finance,Executive,High School,24,1,64,10529,4,2,No
+10130,Employee_130,23,Male,R&D,Executive,Bachelor's,11,9,2,7959,3,4,No
+10131,Employee_131,27,Male,HR,Analyst,High School,25,3,41,11107,1,3,No
+10132,Employee_132,49,Female,R&D,Manager,Master's,5,2,20,7993,4,1,No
+10133,Employee_133,49,Female,Operations,Engineer,Master's,13,6,39,7021,4,1,No
+10134,Employee_134,41,Female,Finance,Manager,Bachelor's,11,7,66,15546,4,3,No
+10135,Employee_135,51,Male,IT,Manager,PhD,10,1,24,12174,2,3,No
+10136,Employee_136,32,Male,Operations,Manager,Bachelor's,18,9,54,18138,4,4,No
+10137,Employee_137,49,Male,Finance,Executive,Bachelor's,20,6,51,13759,3,3,No
+10138,Employee_138,46,Non-Binary,R&D,Technician,PhD,4,7,43,11190,1,1,No
+10139,Employee_139,54,Male,Sales,Executive,Bachelor's,13,5,55,14886,1,4,Yes
+10140,Employee_140,22,Male,Sales,Executive,Master's,20,5,54,18779,3,1,No
+10141,Employee_141,48,Male,HR,Consultant,High School,23,9,69,19322,2,2,No
+10142,Employee_142,34,Female,Finance,Consultant,Bachelor's,15,0,76,11828,3,3,Yes
+10143,Employee_143,24,Non-Binary,Sales,Manager,High School,24,3,72,4510,1,2,No
+10144,Employee_144,27,Female,IT,Executive,Master's,12,13,65,5435,3,1,No
+10145,Employee_145,29,Female,Finance,Manager,Bachelor's,24,0,18,5201,2,2,No
+10146,Employee_146,48,Female,IT,Consultant,Master's,28,3,6,17153,1,2,No
+10147,Employee_147,30,Male,IT,Technician,Bachelor's,21,1,62,2058,2,1,No
+10148,Employee_148,58,Non-Binary,Sales,Engineer,Bachelor's,21,10,41,13122,3,1,No
+10149,Employee_149,54,Female,Finance,Manager,High School,24,12,41,4971,4,3,No
+10150,Employee_150,45,Female,R&D,Technician,Bachelor's,19,4,58,11719,3,2,No
+10151,Employee_151,36,Female,Operations,Engineer,Master's,21,9,19,16017,2,4,No
+10152,Employee_152,53,Female,Sales,Analyst,Bachelor's,3,13,72,10314,3,4,Yes
+10153,Employee_153,53,Female,Sales,Manager,Master's,10,8,16,11628,4,1,No
+10154,Employee_154,45,Non-Binary,R&D,Manager,Master's,16,10,26,11354,2,1,No
+10155,Employee_155,33,Non-Binary,Finance,Analyst,Bachelor's,6,14,46,13492,3,2,No
+10156,Employee_156,23,Female,Finance,Analyst,Bachelor's,13,11,1,5345,2,1,Yes
+10157,Employee_157,24,Female,IT,Manager,High School,25,9,62,17357,2,4,No
+10158,Employee_158,58,Male,R&D,Analyst,High School,10,2,61,2561,1,3,No
+10159,Employee_159,38,Female,R&D,Executive,High School,27,7,18,8261,1,3,No
+10160,Employee_160,23,Male,Finance,Engineer,Bachelor's,21,2,16,3737,2,2,No
+10161,Employee_161,23,Female,IT,Engineer,Bachelor's,8,5,68,11096,3,3,No
+10162,Employee_162,49,Non-Binary,Sales,Engineer,Bachelor's,22,3,38,14682,3,1,No
+10163,Employee_163,44,Female,HR,Executive,Bachelor's,12,7,70,13723,3,1,Yes
+10164,Employee_164,58,Female,Operations,Analyst,Bachelor's,22,10,38,14098,4,1,No
+10165,Employee_165,53,Male,Sales,Technician,Bachelor's,17,5,35,11126,2,1,No
+10166,Employee_166,54,Male,Finance,Analyst,Master's,27,7,39,15389,2,2,No
+10167,Employee_167,22,Female,Operations,Manager,High School,10,0,44,10266,4,3,No
+10168,Employee_168,40,Male,HR,Consultant,Bachelor's,14,5,3,2294,2,4,No
+10169,Employee_169,23,Male,HR,Engineer,Master's,24,0,24,13434,2,3,Yes
+10170,Employee_170,47,Male,IT,Analyst,Bachelor's,25,0,68,7330,4,1,No
+10171,Employee_171,53,Female,Operations,Technician,Bachelor's,24,7,29,6655,1,4,No
+10172,Employee_172,27,Female,IT,Manager,Bachelor's,21,14,75,19493,2,2,No
+10173,Employee_173,53,Male,Sales,Executive,Bachelor's,28,6,67,15460,4,1,Yes
+10174,Employee_174,25,Female,R&D,Executive,High School,18,2,28,5771,3,1,No
+10175,Employee_175,32,Female,R&D,Technician,Bachelor's,0,5,72,10563,1,4,No
+10176,Employee_176,38,Female,R&D,Manager,Bachelor's,3,14,67,19558,3,2,No
+10177,Employee_177,59,Female,Operations,Engineer,Bachelor's,13,8,50,3164,2,4,Yes
+10178,Employee_178,45,Male,R&D,Analyst,Master's,13,6,23,11475,1,2,Yes
+10179,Employee_179,26,Female,Sales,Manager,Master's,2,11,13,14388,4,1,No
+10180,Employee_180,55,Female,IT,Executive,Bachelor's,29,2,68,15969,2,3,No
+10181,Employee_181,27,Female,Operations,Technician,Master's,27,13,17,10434,4,1,No
+10182,Employee_182,43,Female,IT,Technician,Bachelor's,16,13,41,9262,1,3,No
+10183,Employee_183,32,Male,Operations,Analyst,Bachelor's,2,12,56,3541,3,3,Yes
+10184,Employee_184,37,Male,IT,Technician,Master's,15,5,11,4765,2,2,No
+10185,Employee_185,54,Female,HR,Technician,Bachelor's,13,10,16,12306,2,4,Yes
+10186,Employee_186,30,Female,IT,Manager,Bachelor's,29,3,29,6491,4,2,No
+10187,Employee_187,27,Female,R&D,Engineer,High School,19,13,74,5083,1,1,No
+10188,Employee_188,37,Female,HR,Analyst,Bachelor's,28,12,22,3857,4,4,No
+10189,Employee_189,50,Female,IT,Manager,Master's,12,2,0,2769,1,3,No
+10190,Employee_190,24,Female,Operations,Engineer,Master's,14,8,78,19806,2,3,No
+10191,Employee_191,41,Male,Operations,Manager,Master's,13,9,31,4972,1,1,No
+10192,Employee_192,57,Female,Operations,Consultant,Master's,23,1,8,7599,2,4,No
+10193,Employee_193,40,Male,Finance,Manager,Bachelor's,24,0,14,7275,1,1,No
+10194,Employee_194,47,Female,Sales,Technician,Bachelor's,18,14,27,8571,3,1,No
+10195,Employee_195,24,Non-Binary,Operations,Engineer,High School,5,13,23,7072,1,2,No
+10196,Employee_196,40,Male,HR,Analyst,Bachelor's,9,1,59,11631,3,1,No
+10197,Employee_197,41,Male,Operations,Analyst,Bachelor's,26,6,34,13245,1,4,No
+10198,Employee_198,53,Male,Finance,Engineer,PhD,14,9,26,16706,1,1,No
+10199,Employee_199,28,Non-Binary,R&D,Technician,Bachelor's,20,0,75,7463,4,4,No
+10200,Employee_200,54,Male,HR,Executive,Bachelor's,21,5,19,9450,4,3,No
+10201,Employee_201,39,Male,Finance,Manager,Bachelor's,19,13,64,13095,2,1,No
+10202,Employee_202,22,Male,R&D,Technician,Bachelor's,25,6,48,3313,4,4,No
+10203,Employee_203,32,Male,HR,Consultant,Master's,5,8,0,9847,1,3,No
+10204,Employee_204,49,Male,IT,Engineer,Bachelor's,22,14,9,19454,4,4,No
+10205,Employee_205,46,Female,Sales,Manager,Bachelor's,24,13,46,11166,1,3,No
+10206,Employee_206,44,Female,Sales,Analyst,Master's,9,7,58,11930,3,2,Yes
+10207,Employee_207,52,Male,Finance,Executive,Bachelor's,6,5,61,5285,1,1,No
+10208,Employee_208,51,Male,R&D,Consultant,Bachelor's,21,2,17,5095,2,1,No
+10209,Employee_209,56,Male,Sales,Analyst,Bachelor's,16,7,45,18704,3,3,No
+10210,Employee_210,28,Male,R&D,Engineer,Master's,17,6,31,2555,2,2,No
+10211,Employee_211,37,Female,R&D,Manager,High School,16,2,26,7432,2,4,Yes
+10212,Employee_212,47,Female,Finance,Engineer,Master's,8,8,17,3386,2,2,No
+10213,Employee_213,23,Male,Finance,Manager,Master's,9,11,38,13239,4,4,No
+10214,Employee_214,22,Female,Finance,Technician,Bachelor's,9,1,48,12619,2,4,No
+10215,Employee_215,33,Male,Sales,Executive,PhD,24,2,43,8854,3,1,No
+10216,Employee_216,26,Female,Finance,Technician,Master's,6,1,71,12196,1,3,No
+10217,Employee_217,58,Female,Sales,Technician,Master's,15,12,53,18033,2,1,No
+10218,Employee_218,53,Female,Finance,Engineer,Master's,28,0,33,9637,3,1,No
+10219,Employee_219,30,Male,Operations,Executive,High School,17,3,70,14962,2,1,No
+10220,Employee_220,56,Non-Binary,R&D,Manager,Bachelor's,5,4,35,16940,1,4,Yes
+10221,Employee_221,40,Male,Finance,Manager,Bachelor's,26,12,17,12618,3,1,No
+10222,Employee_222,37,Male,HR,Consultant,Bachelor's,19,5,37,5793,3,4,No
+10223,Employee_223,24,Male,R&D,Analyst,Bachelor's,0,4,58,9373,1,3,Yes
+10224,Employee_224,41,Male,R&D,Consultant,Master's,0,0,8,4513,3,4,No
+10225,Employee_225,45,Non-Binary,Finance,Consultant,Master's,11,2,72,4327,1,4,Yes
+10226,Employee_226,54,Female,IT,Manager,Bachelor's,20,0,71,10809,3,2,No
+10227,Employee_227,45,Male,Finance,Engineer,Master's,27,10,50,8452,3,1,No
+10228,Employee_228,32,Female,R&D,Technician,Master's,1,4,34,9642,1,1,No
+10229,Employee_229,29,Non-Binary,HR,Technician,Bachelor's,3,4,4,16435,1,1,No
+10230,Employee_230,57,Female,R&D,Technician,Bachelor's,16,11,13,2992,3,1,No
+10231,Employee_231,59,Female,HR,Executive,Bachelor's,3,10,29,7424,3,2,No
+10232,Employee_232,41,Non-Binary,Sales,Manager,Master's,10,12,3,6381,1,2,No
+10233,Employee_233,56,Non-Binary,Operations,Engineer,Bachelor's,21,5,38,6782,4,2,No
+10234,Employee_234,46,Female,R&D,Executive,Bachelor's,25,7,63,9460,1,2,No
+10235,Employee_235,56,Male,Finance,Analyst,High School,3,9,24,4983,3,1,No
+10236,Employee_236,46,Male,Sales,Engineer,Master's,0,11,27,16182,3,4,Yes
+10237,Employee_237,50,Female,Operations,Consultant,Master's,6,0,75,4523,3,3,No
+10238,Employee_238,39,Male,Finance,Engineer,Master's,29,3,65,11677,1,2,Yes
+10239,Employee_239,39,Female,IT,Engineer,PhD,17,9,77,12292,3,4,No
+10240,Employee_240,23,Male,Finance,Technician,Master's,8,10,21,17089,4,2,No
+10241,Employee_241,56,Male,HR,Engineer,Master's,28,0,30,6581,2,1,Yes
+10242,Employee_242,37,Male,HR,Consultant,Master's,2,8,22,13907,4,1,No
+10243,Employee_243,57,Male,IT,Consultant,Master's,7,10,47,7609,1,4,No
+10244,Employee_244,54,Non-Binary,Sales,Manager,Bachelor's,28,6,19,19771,3,4,No
+10245,Employee_245,25,Female,Operations,Engineer,High School,23,6,37,13375,1,4,No
+10246,Employee_246,54,Female,Finance,Technician,Bachelor's,18,11,54,19414,2,1,No
+10247,Employee_247,35,Female,HR,Engineer,Bachelor's,3,4,67,11957,1,1,Yes
+10248,Employee_248,42,Male,Sales,Analyst,Bachelor's,17,6,78,14955,3,3,No
+10249,Employee_249,41,Female,IT,Analyst,Bachelor's,19,11,0,3220,2,4,No
+10250,Employee_250,29,Female,R&D,Technician,PhD,26,14,6,15163,2,3,No
+10251,Employee_251,28,Female,HR,Manager,Master's,10,1,56,15289,3,2,No
+10252,Employee_252,24,Male,IT,Manager,Master's,26,13,11,14537,3,3,No
+10253,Employee_253,38,Female,Finance,Consultant,Bachelor's,13,12,4,11810,3,2,No
+10254,Employee_254,54,Female,Operations,Consultant,High School,24,3,49,11455,1,2,No
+10255,Employee_255,33,Non-Binary,HR,Executive,High School,17,13,41,11063,4,3,Yes
+10256,Employee_256,43,Female,HR,Technician,Bachelor's,27,13,11,2834,1,4,No
+10257,Employee_257,43,Female,Finance,Engineer,High School,27,6,17,3724,1,2,No
+10258,Employee_258,51,Female,R&D,Technician,High School,28,2,65,4413,4,4,Yes
+10259,Employee_259,59,Female,Sales,Executive,Master's,15,1,73,11505,3,1,No
+10260,Employee_260,59,Male,Operations,Consultant,Master's,2,9,78,6498,3,2,No
+10261,Employee_261,29,Female,HR,Technician,Bachelor's,14,1,16,4105,4,1,No
+10262,Employee_262,48,Female,Operations,Technician,High School,26,12,67,4568,4,3,No
+10263,Employee_263,48,Female,HR,Consultant,Bachelor's,26,0,70,11330,1,4,No
+10264,Employee_264,55,Male,Operations,Executive,High School,3,4,61,18593,2,3,Yes
+10265,Employee_265,42,Male,IT,Consultant,Master's,4,11,40,6911,4,2,No
+10266,Employee_266,51,Female,HR,Manager,Bachelor's,16,5,33,18617,1,1,Yes
+10267,Employee_267,54,Male,Operations,Engineer,Bachelor's,6,5,69,2792,2,2,No
+10268,Employee_268,49,Female,Sales,Consultant,Bachelor's,15,8,44,16195,3,3,No
+10269,Employee_269,54,Male,IT,Executive,High School,13,3,57,15901,3,4,No
+10270,Employee_270,26,Male,IT,Analyst,Bachelor's,25,0,50,17762,1,4,Yes
+10271,Employee_271,40,Non-Binary,Sales,Manager,Master's,15,5,33,10526,1,2,No
+10272,Employee_272,25,Female,Operations,Analyst,Bachelor's,6,14,43,17898,4,2,No
+10273,Employee_273,56,Male,Finance,Consultant,High School,8,4,14,3214,3,1,No
+10274,Employee_274,38,Male,Sales,Manager,Bachelor's,3,9,77,17346,1,3,No
+10275,Employee_275,49,Male,Operations,Engineer,Bachelor's,29,5,69,2212,3,2,No
+10276,Employee_276,51,Female,Sales,Consultant,Master's,29,2,49,3658,3,1,No
+10277,Employee_277,50,Male,Sales,Engineer,Bachelor's,21,1,31,14270,4,2,Yes
+10278,Employee_278,27,Female,HR,Technician,Bachelor's,10,5,66,16029,2,4,Yes
+10279,Employee_279,56,Non-Binary,Operations,Analyst,Bachelor's,1,12,2,7024,4,1,No
+10280,Employee_280,58,Male,Finance,Manager,Bachelor's,11,0,73,15039,1,1,Yes
+10281,Employee_281,45,Female,HR,Engineer,Bachelor's,11,6,50,7141,4,2,No
+10282,Employee_282,50,Non-Binary,Sales,Executive,Bachelor's,29,6,66,7988,4,3,No
+10283,Employee_283,52,Male,R&D,Engineer,Bachelor's,3,9,75,15777,3,4,No
+10284,Employee_284,56,Female,Sales,Executive,Master's,17,12,47,7578,4,3,Yes
+10285,Employee_285,54,Female,Sales,Consultant,Bachelor's,25,6,16,17051,1,1,No
+10286,Employee_286,42,Non-Binary,Operations,Manager,Master's,20,14,6,5845,2,3,No
+10287,Employee_287,53,Female,Operations,Engineer,Bachelor's,6,11,12,13882,4,1,No
+10288,Employee_288,44,Female,HR,Engineer,Master's,28,10,65,16247,4,3,No
+10289,Employee_289,54,Female,Finance,Manager,Master's,0,9,3,13484,2,2,Yes
+10290,Employee_290,24,Female,HR,Engineer,Bachelor's,25,0,9,2378,1,3,Yes
+10291,Employee_291,39,Female,IT,Executive,Master's,25,14,16,5293,1,1,Yes
+10292,Employee_292,46,Female,Sales,Engineer,High School,22,3,51,13630,4,4,No
+10293,Employee_293,52,Female,R&D,Analyst,Master's,25,12,5,15660,3,4,No
+10294,Employee_294,24,Male,Sales,Consultant,Bachelor's,12,6,68,18608,4,4,Yes
+10295,Employee_295,45,Male,Sales,Technician,High School,5,10,73,2737,2,1,No
+10296,Employee_296,53,Male,HR,Executive,Bachelor's,5,8,8,18619,2,3,No
+10297,Employee_297,43,Male,R&D,Analyst,PhD,11,4,76,14470,2,4,No
+10298,Employee_298,44,Male,R&D,Consultant,High School,7,12,20,19095,4,4,No
+10299,Employee_299,23,Non-Binary,R&D,Manager,Bachelor's,23,1,23,18117,4,4,No
+10300,Employee_300,48,Male,HR,Executive,Master's,21,6,3,16779,1,2,No
+10301,Employee_301,23,Female,Sales,Technician,Master's,18,9,23,19643,3,1,No
+10302,Employee_302,47,Male,HR,Consultant,Bachelor's,4,0,58,9271,4,1,Yes
+10303,Employee_303,38,Female,Operations,Technician,Bachelor's,17,6,2,19132,1,1,Yes
+10304,Employee_304,54,Non-Binary,Operations,Manager,High School,29,5,67,14178,4,1,No
+10305,Employee_305,30,Female,HR,Manager,Bachelor's,4,6,39,16490,1,1,Yes
+10306,Employee_306,50,Female,R&D,Executive,Bachelor's,29,13,47,15863,1,2,No
+10307,Employee_307,47,Male,Sales,Engineer,Master's,24,12,53,3823,3,3,No
+10308,Employee_308,56,Female,HR,Manager,High School,9,9,34,8852,4,2,No
+10309,Employee_309,46,Male,HR,Consultant,Bachelor's,0,2,55,15072,1,4,No
+10310,Employee_310,45,Non-Binary,HR,Engineer,High School,9,14,39,13133,2,2,No
+10311,Employee_311,34,Male,IT,Analyst,High School,4,2,76,17111,2,1,No
+10312,Employee_312,28,Female,Operations,Technician,Bachelor's,11,6,67,8519,2,2,No
+10313,Employee_313,57,Female,R&D,Engineer,Bachelor's,21,12,45,3777,3,1,Yes
+10314,Employee_314,41,Male,Finance,Technician,Bachelor's,29,1,77,19606,1,2,No
+10315,Employee_315,22,Male,R&D,Engineer,Master's,26,0,12,16772,3,1,Yes
+10316,Employee_316,29,Male,Finance,Analyst,Bachelor's,6,8,26,15621,4,4,No
+10317,Employee_317,37,Male,IT,Manager,PhD,8,8,5,13859,4,1,No
+10318,Employee_318,35,Female,HR,Analyst,Master's,21,6,16,11496,1,2,No
+10319,Employee_319,33,Male,IT,Manager,Bachelor's,20,6,35,9490,2,4,No
+10320,Employee_320,44,Male,IT,Manager,Master's,11,2,1,10893,1,2,No
+10321,Employee_321,36,Male,Sales,Technician,Bachelor's,22,9,76,4989,1,4,No
+10322,Employee_322,49,Female,Operations,Consultant,High School,28,14,51,10343,1,3,No
+10323,Employee_323,55,Male,Finance,Analyst,Master's,0,1,65,19709,3,3,No
+10324,Employee_324,23,Male,HR,Engineer,High School,10,10,51,13914,4,3,No
+10325,Employee_325,53,Male,Finance,Analyst,Bachelor's,29,6,42,10998,1,2,No
+10326,Employee_326,44,Male,R&D,Technician,Master's,20,8,21,4722,1,2,No
+10327,Employee_327,43,Female,Finance,Manager,High School,14,0,54,6656,1,4,No
+10328,Employee_328,46,Male,R&D,Technician,Bachelor's,1,12,66,19709,3,4,Yes
+10329,Employee_329,43,Male,Operations,Executive,Master's,19,13,59,6133,3,4,No
+10330,Employee_330,43,Female,R&D,Executive,Bachelor's,6,3,57,3242,3,4,No
+10331,Employee_331,27,Female,Finance,Engineer,Bachelor's,20,5,11,10539,1,1,No
+10332,Employee_332,36,Male,Finance,Technician,Bachelor's,11,6,68,3831,2,3,No
+10333,Employee_333,58,Female,R&D,Engineer,Bachelor's,21,9,38,19953,2,1,No
+10334,Employee_334,54,Non-Binary,IT,Engineer,Bachelor's,17,6,12,9246,2,1,Yes
+10335,Employee_335,29,Male,Operations,Executive,PhD,2,9,40,5232,4,1,No
+10336,Employee_336,26,Female,Sales,Engineer,Bachelor's,6,1,56,5758,1,1,No
+10337,Employee_337,25,Female,HR,Executive,Bachelor's,10,13,52,7997,2,3,Yes
+10338,Employee_338,27,Female,Finance,Manager,Master's,17,3,11,12972,2,1,No
+10339,Employee_339,53,Male,HR,Technician,Master's,11,4,12,17368,2,4,No
+10340,Employee_340,51,Male,Sales,Engineer,High School,5,13,73,3824,1,2,No
+10341,Employee_341,56,Female,HR,Executive,Bachelor's,4,11,56,12683,2,4,No
+10342,Employee_342,37,Non-Binary,Sales,Analyst,Bachelor's,25,0,39,6060,2,2,Yes
+10343,Employee_343,34,Female,R&D,Engineer,Bachelor's,0,0,79,2404,1,4,No
+10344,Employee_344,51,Male,IT,Consultant,Bachelor's,11,9,44,13017,4,4,No
+10345,Employee_345,40,Female,Finance,Manager,Bachelor's,26,2,34,5845,3,2,No
+10346,Employee_346,38,Female,Sales,Manager,Master's,25,14,2,13384,2,3,Yes
+10347,Employee_347,40,Male,HR,Analyst,Master's,10,14,4,18448,3,1,No
+10348,Employee_348,49,Male,Finance,Executive,High School,3,9,10,11491,4,4,No
+10349,Employee_349,47,Female,IT,Engineer,Bachelor's,26,2,70,15112,4,3,No
+10350,Employee_350,58,Male,R&D,Executive,Bachelor's,17,11,55,13785,2,1,Yes
+10351,Employee_351,47,Female,Finance,Manager,Bachelor's,3,7,9,2968,1,3,Yes
+10352,Employee_352,44,Male,Sales,Executive,Bachelor's,16,8,33,2368,4,3,Yes
+10353,Employee_353,30,Male,IT,Manager,Master's,1,14,66,10424,3,1,No
+10354,Employee_354,33,Male,HR,Executive,Bachelor's,28,13,71,4242,3,4,No
+10355,Employee_355,22,Female,IT,Analyst,Bachelor's,23,10,30,5083,3,3,No
+10356,Employee_356,22,Non-Binary,IT,Technician,Master's,21,11,74,15322,3,4,No
+10357,Employee_357,55,Male,Operations,Analyst,Bachelor's,1,0,70,3469,4,4,No
+10358,Employee_358,53,Female,IT,Analyst,High School,11,13,65,6725,2,4,No
+10359,Employee_359,46,Female,IT,Technician,Bachelor's,5,10,69,6259,2,1,No
+10360,Employee_360,22,Female,Finance,Technician,High School,9,1,40,5622,3,2,Yes
+10361,Employee_361,37,Male,HR,Engineer,Master's,24,9,62,12292,2,4,No
+10362,Employee_362,26,Female,Finance,Engineer,High School,22,1,31,19207,3,2,No
+10363,Employee_363,43,Female,Finance,Analyst,Bachelor's,24,14,19,5431,3,2,No
+10364,Employee_364,50,Male,Sales,Analyst,Bachelor's,20,3,56,6151,1,3,No
+10365,Employee_365,24,Male,Finance,Manager,PhD,22,1,49,6213,4,4,No
+10366,Employee_366,33,Female,Operations,Manager,High School,26,6,79,17235,4,4,No
+10367,Employee_367,47,Non-Binary,Operations,Engineer,High School,15,12,24,10989,3,4,No
+10368,Employee_368,37,Male,Sales,Consultant,High School,13,14,11,2779,4,2,Yes
+10369,Employee_369,58,Female,R&D,Consultant,High School,6,8,70,17351,2,1,Yes
+10370,Employee_370,43,Non-Binary,HR,Engineer,Bachelor's,27,6,38,13042,3,2,Yes
+10371,Employee_371,50,Female,HR,Manager,Bachelor's,27,11,16,7534,1,4,No
+10372,Employee_372,35,Non-Binary,Finance,Manager,Bachelor's,18,5,44,5306,2,4,No
+10373,Employee_373,49,Female,Finance,Consultant,High School,22,14,10,4902,1,4,No
+10374,Employee_374,26,Male,R&D,Executive,Master's,16,9,69,15391,1,2,No
+10375,Employee_375,51,Male,Finance,Executive,Bachelor's,8,0,22,5718,4,4,No
+10376,Employee_376,26,Male,HR,Manager,Bachelor's,25,10,69,2021,4,3,Yes
+10377,Employee_377,33,Female,IT,Executive,Bachelor's,12,9,37,3500,3,4,No
+10378,Employee_378,37,Female,Operations,Technician,PhD,21,8,1,11034,4,1,No
+10379,Employee_379,47,Male,IT,Engineer,High School,4,4,78,17799,1,3,No
+10380,Employee_380,47,Female,IT,Engineer,Master's,22,10,71,5641,1,4,No
+10381,Employee_381,42,Female,HR,Manager,Master's,4,4,36,2191,2,3,No
+10382,Employee_382,57,Female,IT,Analyst,High School,9,5,48,15306,1,4,Yes
+10383,Employee_383,54,Female,R&D,Consultant,PhD,20,8,51,15414,3,1,No
+10384,Employee_384,51,Female,Sales,Manager,Bachelor's,26,12,32,10587,3,4,No
+10385,Employee_385,58,Male,Finance,Executive,High School,9,7,21,6662,4,3,Yes
+10386,Employee_386,44,Male,Sales,Consultant,Master's,26,7,4,6326,4,1,No
+10387,Employee_387,31,Male,Operations,Analyst,Master's,6,13,17,11065,4,2,No
+10388,Employee_388,26,Male,Finance,Executive,Bachelor's,25,7,37,12471,3,1,Yes
+10389,Employee_389,57,Female,IT,Technician,High School,14,0,36,14641,1,1,Yes
+10390,Employee_390,55,Female,Operations,Executive,Bachelor's,6,0,63,11196,4,1,Yes
+10391,Employee_391,52,Male,Finance,Technician,Master's,28,7,9,14726,2,3,No
+10392,Employee_392,31,Female,R&D,Consultant,Bachelor's,26,4,78,17651,4,1,Yes
+10393,Employee_393,40,Male,R&D,Technician,Bachelor's,14,8,41,10536,3,4,No
+10394,Employee_394,53,Non-Binary,R&D,Consultant,High School,2,1,47,14944,4,1,Yes
+10395,Employee_395,22,Non-Binary,R&D,Consultant,High School,18,8,43,8273,1,1,No
+10396,Employee_396,26,Male,IT,Consultant,Master's,9,11,15,8284,4,4,No
+10397,Employee_397,25,Female,Sales,Consultant,Bachelor's,27,13,53,10817,3,4,No
+10398,Employee_398,37,Male,Finance,Consultant,PhD,28,7,34,10414,3,2,Yes
+10399,Employee_399,45,Female,IT,Executive,Bachelor's,14,8,27,19127,2,1,No
+10400,Employee_400,37,Female,R&D,Consultant,Master's,2,3,1,18846,3,3,No
+10401,Employee_401,23,Male,Sales,Executive,Bachelor's,5,0,12,19952,2,1,No
+10402,Employee_402,49,Female,Operations,Consultant,Bachelor's,11,0,40,13539,1,1,No
+10403,Employee_403,53,Male,Operations,Technician,High School,14,4,79,15993,3,4,No
+10404,Employee_404,48,Male,Operations,Consultant,Bachelor's,5,1,58,15451,4,2,No
+10405,Employee_405,41,Female,R&D,Analyst,Bachelor's,12,13,68,16692,1,1,Yes
+10406,Employee_406,45,Male,Operations,Consultant,PhD,28,7,52,15334,4,3,No
+10407,Employee_407,33,Female,HR,Consultant,Bachelor's,18,9,44,9903,4,1,No
+10408,Employee_408,56,Male,Finance,Technician,High School,2,10,19,17629,4,3,No
+10409,Employee_409,54,Non-Binary,Finance,Engineer,High School,7,4,23,19740,1,4,No
+10410,Employee_410,54,Male,R&D,Technician,High School,7,4,60,3014,1,2,No
+10411,Employee_411,58,Female,HR,Analyst,Bachelor's,22,1,57,12860,3,1,No
+10412,Employee_412,33,Female,IT,Engineer,Master's,25,6,26,19438,4,2,Yes
+10413,Employee_413,24,Male,IT,Manager,Master's,19,12,25,3764,2,1,No
+10414,Employee_414,22,Non-Binary,Operations,Manager,High School,14,7,6,8009,3,3,No
+10415,Employee_415,54,Female,Sales,Analyst,Bachelor's,3,9,41,11604,1,2,No
+10416,Employee_416,31,Female,IT,Technician,Bachelor's,18,12,46,18012,2,1,Yes
+10417,Employee_417,50,Female,Sales,Executive,Bachelor's,20,0,52,2667,1,4,No
+10418,Employee_418,34,Non-Binary,Finance,Analyst,Bachelor's,2,1,58,5370,2,3,No
+10419,Employee_419,33,Non-Binary,Sales,Engineer,Bachelor's,12,9,37,7976,3,2,No
+10420,Employee_420,52,Female,Finance,Engineer,Bachelor's,7,3,68,19778,2,1,No
+10421,Employee_421,23,Female,HR,Consultant,High School,22,4,52,10613,3,2,No
+10422,Employee_422,56,Male,HR,Manager,Master's,15,12,14,7599,1,1,No
+10423,Employee_423,44,Male,R&D,Engineer,High School,12,1,25,5650,2,3,No
+10424,Employee_424,38,Female,R&D,Analyst,Bachelor's,2,0,47,14349,4,4,No
+10425,Employee_425,47,Male,Operations,Engineer,Bachelor's,15,8,18,11894,4,3,No
+10426,Employee_426,29,Female,IT,Analyst,Bachelor's,8,13,8,5190,1,2,No
+10427,Employee_427,50,Male,Operations,Executive,Master's,27,0,63,17345,2,2,No
+10428,Employee_428,47,Male,Finance,Consultant,Master's,13,12,53,10789,4,1,No
+10429,Employee_429,31,Female,Operations,Manager,Master's,12,14,50,2391,3,3,Yes
+10430,Employee_430,47,Non-Binary,Sales,Engineer,Bachelor's,20,3,38,19459,2,1,Yes
+10431,Employee_431,55,Male,Finance,Analyst,Master's,24,1,3,4650,2,3,Yes
+10432,Employee_432,28,Female,R&D,Technician,Bachelor's,6,10,2,15600,4,2,Yes
+10433,Employee_433,25,Female,HR,Manager,Master's,14,3,63,16317,3,1,Yes
+10434,Employee_434,32,Male,R&D,Executive,Bachelor's,6,7,28,19193,3,1,No
+10435,Employee_435,50,Female,IT,Analyst,PhD,5,7,10,17563,3,3,No
+10436,Employee_436,57,Male,Finance,Consultant,Master's,1,14,57,8895,2,4,No
+10437,Employee_437,46,Male,Finance,Consultant,Master's,8,10,74,19543,1,3,No
+10438,Employee_438,42,Non-Binary,Sales,Executive,Bachelor's,21,11,26,3531,2,4,No
+10439,Employee_439,57,Male,IT,Executive,High School,23,8,20,7481,2,3,No
+10440,Employee_440,31,Female,HR,Consultant,Master's,16,12,38,12874,4,2,No
+10441,Employee_441,58,Female,Finance,Engineer,High School,4,14,45,8163,1,1,No
+10442,Employee_442,30,Male,Finance,Engineer,Master's,11,10,65,7264,3,3,Yes
+10443,Employee_443,45,Female,Sales,Analyst,Bachelor's,0,14,35,19615,4,2,Yes
+10444,Employee_444,56,Non-Binary,Operations,Technician,Bachelor's,9,11,74,17890,2,3,No
+10445,Employee_445,56,Male,HR,Analyst,Master's,10,4,64,13767,1,1,Yes
+10446,Employee_446,57,Female,R&D,Technician,Bachelor's,15,6,62,10071,3,3,No
+10447,Employee_447,39,Female,IT,Executive,Bachelor's,13,2,34,17540,3,4,No
+10448,Employee_448,53,Female,Finance,Manager,Bachelor's,7,9,30,4908,2,1,No
+10449,Employee_449,45,Female,Finance,Analyst,Bachelor's,23,3,27,6712,3,4,Yes
+10450,Employee_450,44,Male,R&D,Analyst,Master's,16,9,0,14190,3,2,No
+10451,Employee_451,53,Non-Binary,HR,Technician,Bachelor's,24,8,24,12150,1,2,No
+10452,Employee_452,58,Non-Binary,Operations,Executive,Master's,17,9,42,6491,4,3,No
+10453,Employee_453,33,Female,Finance,Executive,Master's,11,9,66,15919,1,4,Yes
+10454,Employee_454,34,Female,HR,Technician,Bachelor's,24,13,62,16168,4,4,Yes
+10455,Employee_455,44,Female,R&D,Executive,Master's,16,11,50,10593,4,1,Yes
+10456,Employee_456,46,Female,Sales,Consultant,Bachelor's,27,0,1,19358,4,4,Yes
+10457,Employee_457,56,Female,Operations,Engineer,Bachelor's,25,1,63,18607,3,4,No
+10458,Employee_458,51,Female,IT,Consultant,PhD,13,4,73,6613,1,1,Yes
+10459,Employee_459,38,Female,Finance,Manager,High School,15,2,68,13426,3,1,No
+10460,Employee_460,41,Female,HR,Analyst,Bachelor's,13,1,8,18609,2,4,No
+10461,Employee_461,46,Female,Sales,Manager,Bachelor's,8,0,1,10183,1,3,Yes
+10462,Employee_462,43,Male,IT,Analyst,Bachelor's,3,9,33,19725,4,1,No
+10463,Employee_463,34,Male,HR,Engineer,Bachelor's,24,2,59,10401,3,1,No
+10464,Employee_464,40,Male,HR,Executive,Master's,22,0,60,5727,3,4,No
+10465,Employee_465,57,Female,IT,Consultant,Bachelor's,10,11,30,15703,1,4,No
+10466,Employee_466,33,Female,Sales,Technician,Bachelor's,5,0,9,12218,1,1,No
+10467,Employee_467,40,Female,R&D,Consultant,High School,14,11,75,2393,4,4,No
+10468,Employee_468,33,Female,Sales,Engineer,Bachelor's,4,0,35,17992,4,1,No
+10469,Employee_469,30,Female,Operations,Manager,Bachelor's,10,7,48,11035,2,3,No
+10470,Employee_470,28,Male,Finance,Technician,Bachelor's,24,14,69,11716,4,3,No
+10471,Employee_471,49,Female,IT,Executive,Bachelor's,17,2,48,10795,3,1,No
+10472,Employee_472,35,Female,R&D,Engineer,High School,29,10,2,2581,2,1,No
+10473,Employee_473,52,Female,IT,Technician,Bachelor's,12,0,73,16330,2,2,No
+10474,Employee_474,40,Male,IT,Engineer,Bachelor's,10,6,4,12131,2,2,No
+10475,Employee_475,37,Male,Sales,Engineer,Master's,13,9,60,2132,1,4,Yes
+10476,Employee_476,26,Male,Finance,Executive,Master's,27,2,25,16984,4,4,No
+10477,Employee_477,56,Male,Operations,Analyst,Bachelor's,17,7,71,5385,2,1,No
+10478,Employee_478,33,Female,HR,Technician,Master's,26,3,4,5770,1,1,No
+10479,Employee_479,46,Male,HR,Executive,Master's,27,3,14,4268,1,2,No
+10480,Employee_480,42,Female,IT,Engineer,Bachelor's,24,4,15,2975,2,2,No
+10481,Employee_481,57,Female,Finance,Executive,High School,27,5,0,9605,2,1,No
+10482,Employee_482,44,Male,R&D,Analyst,Master's,18,6,15,9213,3,3,Yes
+10483,Employee_483,37,Male,Sales,Consultant,Master's,23,13,36,13455,2,3,No
+10484,Employee_484,35,Male,Finance,Technician,Bachelor's,26,13,2,4835,3,4,No
+10485,Employee_485,52,Male,Finance,Analyst,Master's,14,3,51,4738,2,1,No
+10486,Employee_486,26,Male,Sales,Manager,Bachelor's,8,7,46,11549,2,1,No
+10487,Employee_487,56,Female,IT,Technician,Master's,7,12,12,6134,4,4,No
+10488,Employee_488,44,Male,Finance,Analyst,Master's,19,5,79,8833,2,2,No
+10489,Employee_489,50,Non-Binary,HR,Engineer,Bachelor's,27,13,54,10353,2,2,No
+10490,Employee_490,32,Male,Sales,Technician,Master's,0,0,20,17690,3,3,No
+10491,Employee_491,39,Female,R&D,Technician,Bachelor's,3,0,65,3909,3,1,Yes
+10492,Employee_492,33,Female,Operations,Executive,Bachelor's,13,8,53,16496,4,2,No
+10493,Employee_493,30,Female,IT,Engineer,Master's,24,9,26,14062,2,3,No
+10494,Employee_494,31,Female,Sales,Manager,High School,1,5,37,11850,2,3,No
+10495,Employee_495,38,Female,Operations,Consultant,Bachelor's,15,9,57,3963,3,3,Yes
+10496,Employee_496,59,Female,Operations,Analyst,Bachelor's,2,7,61,7153,1,2,No
+10497,Employee_497,28,Female,R&D,Executive,Bachelor's,25,12,45,12481,1,2,No
+10498,Employee_498,34,Female,Finance,Analyst,Bachelor's,7,6,10,2966,1,1,No
+10499,Employee_499,30,Male,R&D,Manager,Master's,5,11,71,2889,3,1,No
+10500,Employee_500,48,Male,Finance,Manager,High School,15,5,7,8461,3,3,No
+10501,Employee_501,23,Female,Finance,Technician,Bachelor's,23,3,70,8166,1,3,No
+10502,Employee_502,26,Female,Sales,Manager,Bachelor's,15,6,63,18006,1,2,No
+10503,Employee_503,50,Female,Sales,Analyst,Master's,6,8,20,13381,2,2,No
+10504,Employee_504,58,Female,IT,Engineer,Master's,29,13,71,18344,3,1,No
+10505,Employee_505,59,Non-Binary,Finance,Engineer,PhD,12,10,62,12940,3,1,No
+10506,Employee_506,40,Male,Operations,Technician,Master's,12,9,63,13258,1,4,Yes
+10507,Employee_507,29,Male,HR,Consultant,Master's,4,9,19,9280,1,1,Yes
+10508,Employee_508,22,Male,IT,Analyst,Bachelor's,24,13,7,3067,4,2,No
+10509,Employee_509,43,Female,Sales,Analyst,Bachelor's,19,6,57,13115,3,3,No
+10510,Employee_510,38,Female,R&D,Manager,Bachelor's,21,0,45,11018,4,4,No
+10511,Employee_511,28,Male,IT,Analyst,Master's,17,9,30,17753,2,1,No
+10512,Employee_512,46,Female,IT,Executive,Master's,14,8,8,16178,4,1,No
+10513,Employee_513,25,Male,IT,Consultant,High School,17,12,14,17187,1,2,No
+10514,Employee_514,57,Female,IT,Manager,Master's,1,3,25,6607,3,4,No
+10515,Employee_515,27,Female,HR,Executive,Bachelor's,9,14,9,5985,3,1,No
+10516,Employee_516,52,Male,R&D,Technician,Bachelor's,22,2,28,12284,4,3,No
+10517,Employee_517,40,Female,R&D,Engineer,High School,12,3,79,16554,4,2,No
+10518,Employee_518,48,Male,R&D,Technician,High School,17,3,35,6538,2,4,No
+10519,Employee_519,31,Male,Finance,Engineer,Bachelor's,14,12,36,8371,2,1,No
+10520,Employee_520,47,Male,Operations,Technician,Bachelor's,11,9,70,3726,1,1,Yes
+10521,Employee_521,40,Male,R&D,Analyst,Bachelor's,14,10,22,7791,1,4,Yes
+10522,Employee_522,24,Male,IT,Executive,Bachelor's,12,1,40,10458,1,2,No
+10523,Employee_523,34,Female,IT,Engineer,Master's,17,13,79,19221,4,4,No
+10524,Employee_524,49,Female,R&D,Manager,Master's,14,11,27,17738,4,4,No
+10525,Employee_525,41,Female,R&D,Executive,Master's,24,13,47,19070,3,2,No
+10526,Employee_526,49,Male,IT,Manager,Bachelor's,22,0,37,18740,1,1,No
+10527,Employee_527,29,Female,Finance,Executive,Bachelor's,10,11,30,11063,4,3,No
+10528,Employee_528,22,Male,Sales,Executive,Master's,18,9,13,12165,3,2,No
+10529,Employee_529,24,Male,Sales,Technician,Bachelor's,2,11,72,16539,1,3,No
+10530,Employee_530,34,Female,R&D,Engineer,High School,6,0,76,17572,2,1,Yes
+10531,Employee_531,49,Male,HR,Engineer,Bachelor's,20,12,28,6647,2,4,No
+10532,Employee_532,46,Female,R&D,Executive,Bachelor's,25,13,50,12002,4,3,No
+10533,Employee_533,54,Female,R&D,Analyst,Bachelor's,13,7,48,12833,3,1,No
+10534,Employee_534,59,Male,Sales,Analyst,Bachelor's,13,13,42,12420,2,1,No
+10535,Employee_535,27,Male,IT,Manager,Bachelor's,21,1,71,8642,3,4,No
+10536,Employee_536,53,Male,R&D,Manager,High School,12,11,4,12542,3,4,No
+10537,Employee_537,42,Female,IT,Technician,Bachelor's,11,9,41,6357,2,1,No
+10538,Employee_538,37,Male,IT,Executive,Bachelor's,23,4,6,17599,3,1,No
+10539,Employee_539,42,Male,HR,Manager,Bachelor's,8,11,41,15201,2,3,No
+10540,Employee_540,32,Male,IT,Manager,High School,0,3,35,4739,4,1,Yes
+10541,Employee_541,58,Female,Sales,Consultant,Bachelor's,18,7,26,15231,1,1,No
+10542,Employee_542,57,Male,Finance,Executive,Bachelor's,10,1,57,11510,1,3,Yes
+10543,Employee_543,56,Male,Finance,Technician,Bachelor's,22,9,45,11727,4,2,No
+10544,Employee_544,40,Female,Operations,Manager,Bachelor's,21,8,65,12635,2,3,Yes
+10545,Employee_545,41,Non-Binary,R&D,Technician,Bachelor's,22,6,24,11964,2,3,No
+10546,Employee_546,39,Male,Sales,Engineer,Master's,23,14,72,19261,2,4,No
+10547,Employee_547,35,Male,IT,Technician,Bachelor's,21,12,26,13392,2,3,No
+10548,Employee_548,36,Male,Finance,Analyst,Bachelor's,18,6,0,14336,4,1,Yes
+10549,Employee_549,52,Female,Sales,Analyst,Bachelor's,17,0,73,13939,1,1,No
+10550,Employee_550,22,Male,Finance,Technician,Bachelor's,11,13,41,18676,3,1,No
+10551,Employee_551,24,Female,IT,Analyst,Bachelor's,22,11,51,11843,3,2,No
+10552,Employee_552,37,Female,Finance,Engineer,Bachelor's,27,1,24,14823,1,1,Yes
+10553,Employee_553,44,Female,R&D,Executive,Master's,27,3,53,4686,4,2,No
+10554,Employee_554,32,Male,R&D,Analyst,Bachelor's,27,3,66,2233,3,1,Yes
+10555,Employee_555,33,Female,Operations,Analyst,High School,26,10,5,16429,1,3,No
+10556,Employee_556,31,Female,Operations,Technician,Bachelor's,0,13,57,4272,4,4,No
+10557,Employee_557,53,Female,Finance,Engineer,Master's,18,2,69,19350,3,1,No
+10558,Employee_558,37,Male,Sales,Executive,High School,27,6,52,19273,2,2,No
+10559,Employee_559,29,Non-Binary,R&D,Technician,PhD,26,11,65,5400,2,2,No
+10560,Employee_560,59,Male,Sales,Technician,Bachelor's,19,7,57,17371,4,4,No
+10561,Employee_561,33,Male,Sales,Consultant,PhD,28,1,1,6542,2,1,No
+10562,Employee_562,45,Male,Finance,Engineer,Master's,29,3,75,5523,4,3,No
+10563,Employee_563,49,Female,Sales,Executive,Bachelor's,16,13,21,5291,1,1,No
+10564,Employee_564,29,Male,R&D,Engineer,High School,4,2,36,4488,1,1,No
+10565,Employee_565,49,Male,IT,Executive,High School,25,1,19,12892,3,4,No
+10566,Employee_566,57,Male,Operations,Engineer,Bachelor's,2,11,23,3558,4,1,No
+10567,Employee_567,47,Male,IT,Technician,Master's,1,12,64,6690,3,3,No
+10568,Employee_568,29,Female,Sales,Technician,Bachelor's,2,13,64,8121,3,2,No
+10569,Employee_569,49,Female,IT,Manager,Bachelor's,7,5,0,14198,1,4,Yes
+10570,Employee_570,49,Male,R&D,Analyst,Bachelor's,15,12,2,6439,3,3,No
+10571,Employee_571,58,Female,R&D,Consultant,Master's,5,3,45,19487,2,2,No
+10572,Employee_572,57,Female,Sales,Engineer,High School,12,5,54,9520,3,4,No
+10573,Employee_573,48,Male,Finance,Consultant,High School,29,1,74,7409,4,4,No
+10574,Employee_574,38,Male,IT,Manager,High School,22,11,63,11670,2,2,No
+10575,Employee_575,30,Non-Binary,Finance,Analyst,Master's,27,3,44,14106,1,2,No
+10576,Employee_576,54,Female,Finance,Engineer,Bachelor's,21,10,25,13934,4,3,No
+10577,Employee_577,41,Male,HR,Executive,Bachelor's,21,5,76,9869,2,1,No
+10578,Employee_578,34,Female,Sales,Analyst,High School,15,13,64,4956,4,1,Yes
+10579,Employee_579,49,Male,Operations,Technician,Bachelor's,27,4,23,12766,2,1,No
+10580,Employee_580,50,Female,R&D,Manager,High School,15,2,73,12086,4,1,No
+10581,Employee_581,34,Male,R&D,Analyst,Master's,2,7,34,12435,4,1,No
+10582,Employee_582,56,Male,Sales,Analyst,Master's,27,6,23,18412,2,3,Yes
+10583,Employee_583,27,Male,Operations,Technician,Bachelor's,12,2,27,12255,1,4,Yes
+10584,Employee_584,39,Non-Binary,R&D,Engineer,Master's,13,5,79,11638,1,3,Yes
+10585,Employee_585,26,Female,Sales,Executive,Bachelor's,7,3,15,9756,4,3,Yes
+10586,Employee_586,46,Male,R&D,Technician,Master's,11,10,58,13856,4,3,No
+10587,Employee_587,23,Male,Finance,Executive,Master's,22,4,53,17764,1,4,No
+10588,Employee_588,31,Female,IT,Engineer,Bachelor's,22,10,78,5602,1,3,No
+10589,Employee_589,51,Male,IT,Analyst,Master's,21,4,15,7062,3,3,No
+10590,Employee_590,26,Male,R&D,Executive,Bachelor's,20,6,14,13877,1,4,No
+10591,Employee_591,54,Non-Binary,HR,Manager,Bachelor's,25,10,10,9244,4,3,Yes
+10592,Employee_592,22,Male,Operations,Manager,High School,7,4,64,8372,2,1,No
+10593,Employee_593,39,Female,Operations,Technician,Bachelor's,20,10,78,9105,1,2,No
+10594,Employee_594,53,Non-Binary,Operations,Engineer,Master's,24,14,67,14229,3,3,Yes
+10595,Employee_595,32,Male,Finance,Technician,Master's,8,2,42,18956,3,2,No
+10596,Employee_596,42,Male,Operations,Technician,Bachelor's,0,9,68,9705,3,3,No
+10597,Employee_597,47,Male,IT,Consultant,Master's,5,4,12,15894,2,3,Yes
+10598,Employee_598,46,Female,Finance,Technician,Master's,22,6,9,14280,1,1,Yes
+10599,Employee_599,43,Female,Sales,Consultant,High School,18,4,74,2614,1,4,No
+10600,Employee_600,48,Female,Operations,Manager,Bachelor's,22,4,40,6050,1,2,Yes
+10601,Employee_601,34,Male,Operations,Manager,High School,10,8,49,18709,2,4,No
+10602,Employee_602,54,Female,Sales,Technician,Bachelor's,10,14,70,17722,2,1,Yes
+10603,Employee_603,55,Non-Binary,Operations,Manager,Master's,22,2,58,17210,4,1,No
+10604,Employee_604,56,Female,Sales,Engineer,High School,29,12,38,18742,3,2,No
+10605,Employee_605,22,Non-Binary,Finance,Consultant,Master's,12,5,2,5777,3,4,No
+10606,Employee_606,42,Female,IT,Consultant,Bachelor's,10,0,75,7906,1,1,No
+10607,Employee_607,27,Female,Sales,Technician,Bachelor's,17,9,6,3721,2,3,No
+10608,Employee_608,49,Female,HR,Manager,Bachelor's,22,4,48,19733,2,3,No
+10609,Employee_609,38,Male,Sales,Executive,Bachelor's,14,7,25,5896,1,3,No
+10610,Employee_610,26,Male,Operations,Consultant,High School,0,4,32,8941,1,4,Yes
+10611,Employee_611,52,Female,Finance,Technician,Bachelor's,20,8,47,15464,4,3,Yes
+10612,Employee_612,26,Male,R&D,Technician,High School,24,10,78,7246,3,3,No
+10613,Employee_613,59,Female,Finance,Engineer,Bachelor's,6,5,1,10384,3,1,No
+10614,Employee_614,24,Non-Binary,R&D,Analyst,High School,22,7,70,17369,3,1,No
+10615,Employee_615,44,Female,Sales,Analyst,Master's,26,9,31,18475,4,3,No
+10616,Employee_616,58,Male,IT,Consultant,Bachelor's,12,7,3,15644,1,3,No
+10617,Employee_617,58,Male,HR,Engineer,Bachelor's,11,12,19,13108,1,1,No
+10618,Employee_618,31,Male,Finance,Engineer,Bachelor's,17,2,35,10128,3,2,No
+10619,Employee_619,31,Female,Operations,Engineer,Bachelor's,23,6,31,19459,3,4,Yes
+10620,Employee_620,40,Female,R&D,Consultant,Master's,18,13,27,10168,4,4,No
+10621,Employee_621,38,Non-Binary,Operations,Analyst,High School,14,6,76,8861,2,1,No
+10622,Employee_622,42,Male,IT,Engineer,Bachelor's,7,13,0,10990,2,4,No
+10623,Employee_623,35,Non-Binary,R&D,Manager,Master's,18,9,59,15750,3,1,No
+10624,Employee_624,30,Female,Finance,Technician,High School,9,11,55,18988,4,1,No
+10625,Employee_625,22,Male,Sales,Technician,High School,6,5,34,4979,3,1,No
+10626,Employee_626,34,Female,Operations,Executive,Bachelor's,17,11,29,9065,2,1,Yes
+10627,Employee_627,25,Male,IT,Executive,High School,15,6,53,6916,3,2,Yes
+10628,Employee_628,22,Male,Finance,Consultant,Bachelor's,19,13,35,2597,2,3,No
+10629,Employee_629,53,Female,Finance,Consultant,Bachelor's,26,1,54,7622,2,3,No
+10630,Employee_630,55,Male,Finance,Technician,Master's,5,8,79,14164,2,2,No
+10631,Employee_631,49,Female,Finance,Manager,Master's,26,9,57,3699,1,4,No
+10632,Employee_632,52,Female,R&D,Analyst,Bachelor's,8,9,64,19100,1,4,Yes
+10633,Employee_633,29,Female,Finance,Analyst,Bachelor's,20,0,68,15429,3,3,No
+10634,Employee_634,47,Male,Operations,Consultant,Master's,12,0,50,15796,2,4,No
+10635,Employee_635,55,Female,IT,Manager,Bachelor's,24,2,21,6086,1,3,No
+10636,Employee_636,24,Female,R&D,Consultant,Master's,20,13,52,2665,3,3,Yes
+10637,Employee_637,33,Female,Finance,Analyst,Master's,25,14,35,16605,3,2,No
+10638,Employee_638,22,Male,HR,Consultant,Master's,7,2,67,19463,3,4,No
+10639,Employee_639,26,Male,HR,Engineer,Bachelor's,15,0,35,10419,3,2,No
+10640,Employee_640,51,Female,IT,Consultant,Bachelor's,12,11,51,17184,3,3,No
+10641,Employee_641,51,Male,Sales,Technician,Bachelor's,12,6,52,3069,4,3,No
+10642,Employee_642,38,Female,Sales,Consultant,Master's,16,3,49,7263,2,3,No
+10643,Employee_643,44,Female,R&D,Technician,High School,22,9,79,18109,3,1,Yes
+10644,Employee_644,36,Female,R&D,Manager,Master's,19,12,40,9951,4,1,No
+10645,Employee_645,58,Female,R&D,Analyst,Bachelor's,4,1,17,14919,2,1,No
+10646,Employee_646,42,Non-Binary,Sales,Executive,High School,21,9,21,3363,1,2,No
+10647,Employee_647,35,Female,HR,Executive,High School,20,4,65,6508,3,3,Yes
+10648,Employee_648,23,Non-Binary,Sales,Analyst,High School,27,5,20,3755,4,4,Yes
+10649,Employee_649,32,Female,Operations,Executive,Bachelor's,16,8,43,2519,1,2,No
+10650,Employee_650,59,Male,Finance,Consultant,Bachelor's,27,3,46,13736,4,2,No
+10651,Employee_651,55,Male,R&D,Manager,PhD,8,1,38,12514,2,2,No
+10652,Employee_652,59,Female,HR,Manager,Bachelor's,1,4,28,16688,2,4,No
+10653,Employee_653,55,Male,IT,Analyst,High School,24,2,53,9233,1,3,No
+10654,Employee_654,39,Female,IT,Executive,Bachelor's,25,1,16,3102,4,1,Yes
+10655,Employee_655,51,Male,Finance,Consultant,Master's,17,11,79,2597,3,3,No
+10656,Employee_656,36,Female,HR,Manager,Master's,8,0,59,15947,3,3,No
+10657,Employee_657,48,Female,Sales,Manager,High School,5,9,30,14241,1,2,No
+10658,Employee_658,55,Female,Sales,Engineer,Master's,10,1,72,7781,1,2,No
+10659,Employee_659,59,Female,Operations,Engineer,Master's,24,5,77,12797,1,2,No
+10660,Employee_660,54,Female,Operations,Manager,High School,28,7,48,8256,4,1,No
+10661,Employee_661,45,Male,Sales,Analyst,High School,5,12,1,12380,3,1,Yes
+10662,Employee_662,36,Female,IT,Technician,Bachelor's,5,2,47,10780,3,1,No
+10663,Employee_663,51,Male,R&D,Technician,High School,12,10,13,8554,3,3,No
+10664,Employee_664,38,Non-Binary,IT,Consultant,Master's,10,14,58,14664,1,2,No
+10665,Employee_665,26,Female,Operations,Manager,Bachelor's,13,8,57,11599,3,4,Yes
+10666,Employee_666,50,Male,Finance,Manager,Master's,1,14,57,17511,2,3,Yes
+10667,Employee_667,25,Male,Sales,Manager,Bachelor's,7,11,50,6846,1,1,No
+10668,Employee_668,31,Female,Operations,Analyst,High School,2,8,1,8605,3,4,No
+10669,Employee_669,38,Male,Operations,Engineer,High School,22,1,40,12251,4,4,No
+10670,Employee_670,31,Male,R&D,Manager,Bachelor's,20,7,15,18043,1,2,No
+10671,Employee_671,38,Female,Sales,Manager,Master's,2,9,3,14764,2,4,No
+10672,Employee_672,41,Female,R&D,Executive,Master's,0,10,11,4986,2,1,No
+10673,Employee_673,45,Female,Sales,Analyst,Bachelor's,23,11,28,2400,4,2,No
+10674,Employee_674,26,Non-Binary,R&D,Consultant,Bachelor's,18,4,6,12416,4,4,No
+10675,Employee_675,55,Female,IT,Manager,High School,17,3,13,5412,1,2,No
+10676,Employee_676,27,Female,Finance,Executive,Bachelor's,16,9,11,18440,1,4,No
+10677,Employee_677,23,Male,Finance,Technician,High School,19,4,4,3875,2,3,No
+10678,Employee_678,34,Female,Sales,Consultant,Bachelor's,28,3,31,6298,4,3,Yes
+10679,Employee_679,32,Male,HR,Manager,Bachelor's,23,7,73,5768,1,1,No
+10680,Employee_680,44,Non-Binary,Operations,Manager,Master's,12,3,42,7752,2,3,No
+10681,Employee_681,37,Female,Operations,Executive,Bachelor's,2,12,68,14489,4,3,No
+10682,Employee_682,52,Female,Sales,Analyst,Bachelor's,29,9,44,3353,2,3,No
+10683,Employee_683,32,Male,R&D,Manager,Bachelor's,0,11,8,8597,3,4,No
+10684,Employee_684,37,Female,HR,Technician,Bachelor's,3,12,48,16691,4,4,Yes
+10685,Employee_685,29,Female,IT,Manager,Bachelor's,24,13,32,6311,1,2,Yes
+10686,Employee_686,25,Male,R&D,Technician,Master's,12,5,17,17307,1,4,No
+10687,Employee_687,25,Male,R&D,Consultant,Master's,16,1,8,12794,3,3,No
+10688,Employee_688,46,Female,Sales,Consultant,Bachelor's,27,4,61,4934,4,4,No
+10689,Employee_689,24,Male,Sales,Engineer,Bachelor's,29,5,56,18406,2,1,No
+10690,Employee_690,53,Non-Binary,Operations,Engineer,Bachelor's,10,4,28,12394,1,2,No
+10691,Employee_691,24,Male,Sales,Technician,Master's,1,11,77,19593,3,2,No
+10692,Employee_692,48,Male,Sales,Analyst,High School,24,1,24,10940,3,4,No
+10693,Employee_693,50,Female,Sales,Manager,Bachelor's,15,13,14,19188,4,3,Yes
+10694,Employee_694,53,Male,Operations,Manager,Bachelor's,1,6,5,10325,4,2,No
+10695,Employee_695,40,Female,IT,Engineer,Bachelor's,28,3,41,12629,1,1,Yes
+10696,Employee_696,42,Male,IT,Technician,Bachelor's,18,7,28,7141,3,1,Yes
+10697,Employee_697,26,Male,Sales,Manager,Master's,22,6,78,5671,2,2,No
+10698,Employee_698,39,Female,Operations,Manager,High School,18,6,3,9292,3,3,Yes
+10699,Employee_699,49,Female,IT,Analyst,Bachelor's,24,8,56,17438,2,3,No
+10700,Employee_700,43,Female,R&D,Executive,Bachelor's,15,0,48,14231,2,4,No
+10701,Employee_701,42,Female,IT,Engineer,Master's,21,9,43,16511,1,4,No
+10702,Employee_702,27,Female,IT,Engineer,PhD,18,5,79,13109,3,2,No
+10703,Employee_703,22,Male,Operations,Executive,Bachelor's,8,5,74,10444,2,4,Yes
+10704,Employee_704,26,Male,R&D,Manager,Master's,0,5,13,17605,4,4,No
+10705,Employee_705,33,Non-Binary,Operations,Analyst,Bachelor's,9,12,2,15026,2,4,No
+10706,Employee_706,47,Female,Sales,Analyst,Bachelor's,18,11,61,11321,4,1,No
+10707,Employee_707,55,Female,Finance,Engineer,Bachelor's,0,5,63,7435,4,4,Yes
+10708,Employee_708,35,Male,IT,Analyst,Bachelor's,1,11,44,10493,3,2,No
+10709,Employee_709,47,Male,Finance,Consultant,Bachelor's,15,9,57,8691,4,3,Yes
+10710,Employee_710,48,Female,Operations,Executive,Bachelor's,11,6,19,4763,2,4,No
+10711,Employee_711,30,Female,Operations,Manager,High School,7,13,57,5241,4,3,No
+10712,Employee_712,47,Female,Operations,Consultant,Master's,22,9,56,5057,3,4,Yes
+10713,Employee_713,43,Female,Finance,Executive,High School,17,5,76,18934,1,2,No
+10714,Employee_714,51,Female,Operations,Technician,Bachelor's,1,0,67,7574,2,1,No
+10715,Employee_715,38,Male,Sales,Engineer,Bachelor's,24,2,77,7411,2,2,No
+10716,Employee_716,47,Male,Operations,Analyst,Master's,28,1,51,3587,3,1,No
+10717,Employee_717,57,Male,HR,Technician,High School,12,5,36,12014,3,4,No
+10718,Employee_718,22,Male,Finance,Analyst,Bachelor's,5,7,7,7920,3,4,No
+10719,Employee_719,29,Female,HR,Consultant,PhD,20,2,43,13688,3,1,Yes
+10720,Employee_720,56,Female,Operations,Manager,Bachelor's,25,9,4,6409,2,2,No
+10721,Employee_721,36,Female,Sales,Manager,Bachelor's,5,7,68,7783,1,2,Yes
+10722,Employee_722,43,Male,IT,Manager,Master's,8,7,30,2712,4,1,No
+10723,Employee_723,35,Male,R&D,Analyst,High School,15,4,44,7406,4,4,No
+10724,Employee_724,47,Male,R&D,Technician,Bachelor's,10,7,8,14041,1,1,No
+10725,Employee_725,49,Male,Operations,Manager,Bachelor's,6,5,31,4433,1,4,No
+10726,Employee_726,44,Female,Sales,Technician,Bachelor's,9,4,32,5301,1,1,No
+10727,Employee_727,35,Male,Finance,Analyst,Bachelor's,9,8,66,18654,3,4,No
+10728,Employee_728,45,Female,HR,Consultant,High School,29,13,29,13586,2,1,No
+10729,Employee_729,23,Male,HR,Technician,Bachelor's,24,6,75,19463,2,3,No
+10730,Employee_730,47,Male,HR,Consultant,High School,19,7,28,7322,2,4,No
+10731,Employee_731,35,Male,Finance,Analyst,Master's,17,0,2,15932,3,2,No
+10732,Employee_732,28,Female,R&D,Analyst,Bachelor's,27,10,56,7257,2,1,Yes
+10733,Employee_733,24,Female,Sales,Engineer,Bachelor's,23,1,29,15733,3,2,No
+10734,Employee_734,44,Male,Finance,Analyst,Master's,19,7,8,15368,2,1,No
+10735,Employee_735,39,Male,HR,Analyst,Bachelor's,28,11,25,11777,1,2,No
+10736,Employee_736,59,Female,Operations,Executive,High School,8,8,1,13249,4,2,No
+10737,Employee_737,56,Male,IT,Manager,Master's,14,3,61,14881,4,1,No
+10738,Employee_738,36,Male,Finance,Engineer,Bachelor's,3,11,2,11587,3,1,No
+10739,Employee_739,46,Female,Finance,Engineer,High School,7,9,45,10791,2,2,No
+10740,Employee_740,58,Female,Sales,Engineer,Master's,8,10,67,10705,4,2,No
+10741,Employee_741,49,Male,Sales,Executive,Bachelor's,12,9,24,11258,1,2,No
+10742,Employee_742,31,Non-Binary,Finance,Consultant,Bachelor's,8,13,50,9833,1,4,No
+10743,Employee_743,38,Female,HR,Analyst,Bachelor's,25,8,12,16245,1,4,No
+10744,Employee_744,43,Male,IT,Manager,Bachelor's,3,3,43,17754,3,3,No
+10745,Employee_745,47,Female,Sales,Technician,Bachelor's,16,9,34,11280,3,4,No
+10746,Employee_746,46,Female,HR,Consultant,Master's,15,9,54,14577,2,4,No
+10747,Employee_747,38,Male,Operations,Analyst,Bachelor's,14,9,8,4514,1,1,No
+10748,Employee_748,34,Male,Sales,Executive,Master's,2,8,1,5969,2,3,No
+10749,Employee_749,41,Male,HR,Analyst,Bachelor's,24,10,60,6566,2,3,No
+10750,Employee_750,46,Female,HR,Analyst,Master's,19,6,40,4196,1,4,No
+10751,Employee_751,25,Male,IT,Executive,Master's,4,1,43,19173,2,1,No
+10752,Employee_752,31,Female,IT,Engineer,Bachelor's,22,8,63,13345,4,1,No
+10753,Employee_753,24,Female,Operations,Engineer,Bachelor's,4,3,30,3309,3,3,No
+10754,Employee_754,39,Male,HR,Manager,Bachelor's,19,7,46,2864,2,1,No
+10755,Employee_755,57,Female,R&D,Manager,Bachelor's,14,13,1,14055,1,2,No
+10756,Employee_756,43,Male,HR,Engineer,Master's,17,6,76,7389,3,4,No
+10757,Employee_757,55,Female,IT,Consultant,Master's,14,12,68,13716,3,2,No
+10758,Employee_758,29,Female,R&D,Technician,Bachelor's,1,14,57,13978,2,3,No
+10759,Employee_759,40,Male,Sales,Analyst,High School,28,6,43,5003,4,3,No
+10760,Employee_760,58,Female,Sales,Technician,Bachelor's,12,7,73,16174,2,1,No
+10761,Employee_761,27,Male,Finance,Analyst,Bachelor's,3,0,55,15772,4,1,No
+10762,Employee_762,47,Male,IT,Engineer,Bachelor's,9,4,42,19615,3,3,No
+10763,Employee_763,55,Male,Finance,Manager,Master's,12,1,33,9959,2,3,No
+10764,Employee_764,27,Male,R&D,Consultant,PhD,9,1,29,13980,1,2,No
+10765,Employee_765,58,Non-Binary,IT,Manager,High School,28,14,70,8581,2,2,No
+10766,Employee_766,54,Male,Operations,Technician,Bachelor's,8,0,69,18805,4,1,Yes
+10767,Employee_767,43,Male,HR,Manager,Bachelor's,7,4,54,11965,4,2,No
+10768,Employee_768,42,Female,Operations,Engineer,Bachelor's,2,1,66,13760,2,1,No
+10769,Employee_769,27,Male,R&D,Consultant,High School,15,3,12,16922,4,1,No
+10770,Employee_770,27,Non-Binary,IT,Technician,High School,13,2,2,2946,3,4,No
+10771,Employee_771,25,Female,R&D,Consultant,Master's,8,2,25,3564,2,1,No
+10772,Employee_772,51,Female,HR,Analyst,Bachelor's,29,1,56,9332,4,2,No
+10773,Employee_773,32,Male,Sales,Manager,Bachelor's,20,12,23,6944,2,3,No
+10774,Employee_774,51,Male,Sales,Consultant,Master's,10,5,52,18057,2,3,Yes
+10775,Employee_775,52,Male,R&D,Executive,Master's,2,1,69,15877,1,2,No
+10776,Employee_776,45,Female,Finance,Manager,High School,4,13,42,12139,2,3,No
+10777,Employee_777,30,Male,IT,Analyst,Bachelor's,28,13,59,3308,1,1,No
+10778,Employee_778,24,Male,IT,Consultant,Bachelor's,9,7,57,18770,4,3,Yes
+10779,Employee_779,52,Non-Binary,Sales,Technician,Master's,12,7,48,5258,1,2,Yes
+10780,Employee_780,58,Female,Operations,Analyst,Master's,3,12,41,6811,1,3,No
+10781,Employee_781,57,Male,HR,Executive,Bachelor's,23,13,75,8697,1,1,Yes
+10782,Employee_782,45,Male,Operations,Consultant,Bachelor's,12,11,65,17775,3,1,Yes
+10783,Employee_783,52,Non-Binary,Operations,Engineer,Master's,11,4,10,13039,1,2,No
+10784,Employee_784,27,Male,R&D,Manager,High School,4,9,17,3439,2,2,No
+10785,Employee_785,23,Female,Sales,Technician,High School,9,6,51,13634,1,2,No
+10786,Employee_786,41,Female,Sales,Engineer,Bachelor's,27,3,45,2055,2,4,Yes
+10787,Employee_787,49,Male,Sales,Consultant,High School,23,0,43,2105,1,4,Yes
+10788,Employee_788,32,Female,R&D,Consultant,Bachelor's,8,10,21,5201,3,1,No
+10789,Employee_789,25,Male,Finance,Analyst,Master's,19,1,52,17184,4,4,No
+10790,Employee_790,36,Male,Operations,Consultant,Master's,6,9,58,2669,1,4,Yes
+10791,Employee_791,27,Female,R&D,Technician,Bachelor's,1,9,29,14663,1,3,No
+10792,Employee_792,51,Female,IT,Engineer,Bachelor's,21,3,7,2966,3,4,No
+10793,Employee_793,59,Female,HR,Technician,Bachelor's,23,0,56,18691,1,3,No
+10794,Employee_794,23,Female,Finance,Executive,Bachelor's,27,14,72,13656,2,2,No
+10795,Employee_795,36,Male,IT,Executive,High School,22,12,19,17893,1,3,No
+10796,Employee_796,32,Male,Operations,Manager,Master's,6,7,24,15089,1,3,No
+10797,Employee_797,29,Male,Sales,Manager,Bachelor's,7,8,18,18493,4,2,No
+10798,Employee_798,47,Male,Operations,Executive,Bachelor's,6,3,4,5632,4,2,No
+10799,Employee_799,26,Male,R&D,Consultant,High School,20,9,74,7684,1,1,No
+10800,Employee_800,27,Male,HR,Technician,Master's,22,2,78,15266,3,1,No
+10801,Employee_801,47,Male,R&D,Executive,Master's,28,1,71,18940,4,1,No
+10802,Employee_802,25,Male,Finance,Manager,Master's,13,4,26,2104,1,1,No
+10803,Employee_803,40,Female,Finance,Executive,Master's,25,13,39,4047,4,3,Yes
+10804,Employee_804,41,Female,HR,Consultant,Bachelor's,18,2,25,18529,1,3,No
+10805,Employee_805,54,Male,IT,Executive,Bachelor's,4,9,26,19257,4,1,Yes
+10806,Employee_806,41,Non-Binary,IT,Technician,Bachelor's,22,6,61,18682,4,4,No
+10807,Employee_807,33,Female,Finance,Engineer,Bachelor's,24,10,49,10837,2,1,Yes
+10808,Employee_808,22,Male,Finance,Consultant,Bachelor's,17,5,41,17407,1,4,No
+10809,Employee_809,47,Female,Sales,Manager,High School,19,0,28,8382,1,2,Yes
+10810,Employee_810,35,Female,IT,Technician,High School,11,11,38,2783,1,3,No
+10811,Employee_811,59,Female,HR,Executive,Bachelor's,22,7,59,2370,1,3,No
+10812,Employee_812,58,Male,IT,Executive,Bachelor's,16,1,40,17908,4,4,No
+10813,Employee_813,32,Female,Sales,Engineer,Master's,12,4,32,2486,2,1,No
+10814,Employee_814,57,Male,R&D,Manager,High School,1,8,15,16500,2,3,No
+10815,Employee_815,34,Female,Finance,Manager,Bachelor's,24,7,22,5196,3,4,No
+10816,Employee_816,24,Female,Finance,Analyst,High School,12,1,6,11552,1,2,No
+10817,Employee_817,54,Female,Sales,Manager,High School,25,8,25,4261,3,2,No
+10818,Employee_818,27,Female,HR,Engineer,Bachelor's,6,4,11,12813,4,3,No
+10819,Employee_819,31,Female,Finance,Analyst,High School,27,9,71,11148,3,1,No
+10820,Employee_820,26,Male,Operations,Analyst,Bachelor's,9,13,4,10572,1,4,No
+10821,Employee_821,44,Male,Finance,Executive,Bachelor's,22,5,68,17008,2,3,No
+10822,Employee_822,31,Female,Operations,Executive,Bachelor's,5,12,48,15085,2,2,No
+10823,Employee_823,23,Male,Sales,Manager,High School,2,2,25,18622,1,1,No
+10824,Employee_824,34,Male,Sales,Analyst,High School,25,12,4,8843,4,4,No
+10825,Employee_825,23,Male,Finance,Executive,High School,2,2,21,3105,1,3,No
+10826,Employee_826,41,Male,IT,Engineer,High School,17,9,78,19770,4,4,No
+10827,Employee_827,22,Non-Binary,Operations,Executive,Bachelor's,10,7,12,12441,2,1,No
+10828,Employee_828,58,Female,HR,Consultant,Bachelor's,21,10,27,11719,4,1,Yes
+10829,Employee_829,30,Non-Binary,Finance,Consultant,Bachelor's,19,9,32,4691,1,2,Yes
+10830,Employee_830,38,Female,HR,Executive,Bachelor's,4,9,22,13864,1,1,No
+10831,Employee_831,30,Female,Finance,Analyst,Bachelor's,18,14,17,3996,1,3,No
+10832,Employee_832,32,Male,IT,Analyst,Master's,21,11,29,3425,4,4,No
+10833,Employee_833,36,Female,IT,Technician,Master's,26,1,25,18378,4,1,No
+10834,Employee_834,45,Male,IT,Consultant,Master's,27,10,15,8849,4,1,No
+10835,Employee_835,59,Female,R&D,Engineer,Bachelor's,18,11,76,5247,2,3,No
+10836,Employee_836,56,Female,IT,Analyst,Bachelor's,29,11,38,3490,3,4,No
+10837,Employee_837,51,Male,Sales,Manager,Bachelor's,14,1,32,19608,3,4,No
+10838,Employee_838,52,Non-Binary,Sales,Consultant,Bachelor's,29,12,25,16310,1,2,No
+10839,Employee_839,26,Female,R&D,Engineer,Bachelor's,15,4,47,19216,2,2,No
+10840,Employee_840,35,Female,Operations,Engineer,Bachelor's,23,5,64,17401,4,4,No
+10841,Employee_841,32,Male,HR,Analyst,Master's,8,11,37,14884,1,3,No
+10842,Employee_842,30,Female,Finance,Engineer,Bachelor's,3,1,1,6795,2,3,No
+10843,Employee_843,55,Female,Finance,Analyst,Master's,14,14,5,3646,1,2,Yes
+10844,Employee_844,33,Male,R&D,Executive,Bachelor's,24,4,45,18142,2,1,No
+10845,Employee_845,56,Male,Sales,Consultant,Bachelor's,11,6,49,16306,2,3,No
+10846,Employee_846,56,Female,Finance,Technician,High School,22,9,37,18824,3,1,No
+10847,Employee_847,22,Male,Sales,Executive,High School,2,9,17,7956,1,3,No
+10848,Employee_848,43,Female,Operations,Consultant,Master's,22,7,26,15928,4,4,No
+10849,Employee_849,50,Non-Binary,HR,Analyst,Bachelor's,13,11,40,11721,3,2,No
+10850,Employee_850,29,Female,Operations,Consultant,Bachelor's,16,6,71,13157,3,1,Yes
+10851,Employee_851,32,Male,R&D,Analyst,Master's,18,7,73,4367,4,1,No
+10852,Employee_852,58,Female,IT,Executive,Bachelor's,5,13,16,8696,2,4,No
+10853,Employee_853,35,Male,IT,Manager,PhD,3,11,61,7190,4,3,Yes
+10854,Employee_854,51,Male,IT,Manager,Bachelor's,6,8,28,6663,1,1,No
+10855,Employee_855,56,Female,Operations,Consultant,Bachelor's,29,14,57,9062,4,3,No
+10856,Employee_856,42,Male,Finance,Manager,Bachelor's,18,4,69,6331,2,4,No
+10857,Employee_857,58,Male,HR,Analyst,High School,16,12,77,13880,4,2,Yes
+10858,Employee_858,26,Female,IT,Engineer,High School,24,4,21,18246,2,1,No
+10859,Employee_859,40,Male,R&D,Analyst,Bachelor's,15,10,5,5262,2,3,No
+10860,Employee_860,35,Male,R&D,Engineer,Master's,14,9,25,15320,1,1,No
+10861,Employee_861,47,Female,IT,Executive,Master's,21,3,38,9036,4,3,No
+10862,Employee_862,25,Female,IT,Technician,High School,7,12,11,6677,4,3,No
+10863,Employee_863,46,Female,HR,Engineer,Bachelor's,18,8,13,9972,1,3,No
+10864,Employee_864,46,Male,IT,Manager,High School,7,4,21,17329,2,4,Yes
+10865,Employee_865,39,Male,HR,Analyst,High School,17,13,50,6264,4,2,No
+10866,Employee_866,29,Male,R&D,Executive,Bachelor's,27,1,22,5133,1,1,No
+10867,Employee_867,35,Male,IT,Manager,Bachelor's,15,14,47,13612,2,2,No
+10868,Employee_868,53,Female,Operations,Executive,High School,19,9,70,19849,1,3,No
+10869,Employee_869,59,Male,Operations,Technician,High School,18,7,49,16158,4,3,No
+10870,Employee_870,54,Male,R&D,Analyst,PhD,9,14,12,11735,1,2,No
+10871,Employee_871,44,Female,HR,Consultant,High School,16,6,9,3689,3,2,No
+10872,Employee_872,36,Female,Operations,Analyst,Bachelor's,12,7,54,11763,2,1,No
+10873,Employee_873,54,Female,HR,Technician,Bachelor's,12,11,8,9727,3,3,Yes
+10874,Employee_874,46,Male,Operations,Analyst,High School,6,2,78,9764,3,2,No
+10875,Employee_875,38,Male,Operations,Consultant,High School,26,14,51,15003,2,4,No
+10876,Employee_876,54,Male,HR,Engineer,Bachelor's,9,14,1,2818,2,3,No
+10877,Employee_877,23,Male,Finance,Executive,Master's,1,3,24,16439,1,3,No
+10878,Employee_878,35,Female,Operations,Consultant,Bachelor's,3,4,12,17077,2,1,Yes
+10879,Employee_879,27,Female,IT,Manager,Bachelor's,24,5,50,6521,3,4,Yes
+10880,Employee_880,27,Female,R&D,Technician,PhD,5,0,57,3124,3,1,No
+10881,Employee_881,24,Female,Finance,Engineer,Master's,23,3,33,7660,4,4,No
+10882,Employee_882,28,Male,HR,Manager,Bachelor's,17,10,34,7641,2,1,No
+10883,Employee_883,29,Female,Finance,Manager,Bachelor's,22,11,2,19513,3,4,No
+10884,Employee_884,36,Male,Sales,Technician,Bachelor's,5,9,58,3702,4,4,No
+10885,Employee_885,50,Female,Sales,Engineer,Bachelor's,28,12,69,13139,4,4,Yes
+10886,Employee_886,54,Female,Operations,Manager,Bachelor's,29,4,47,17702,1,2,No
+10887,Employee_887,51,Male,Operations,Manager,Bachelor's,24,6,63,8523,3,3,No
+10888,Employee_888,48,Male,IT,Engineer,High School,22,12,18,14397,1,4,No
+10889,Employee_889,57,Non-Binary,R&D,Analyst,Bachelor's,16,4,66,10111,3,2,Yes
+10890,Employee_890,50,Male,Finance,Manager,Bachelor's,13,12,72,4401,1,2,No
+10891,Employee_891,59,Male,Sales,Executive,High School,23,12,75,11481,1,1,No
+10892,Employee_892,54,Male,Operations,Engineer,High School,10,0,4,12067,2,3,No
+10893,Employee_893,58,Female,R&D,Manager,Bachelor's,25,10,66,15376,1,3,No
+10894,Employee_894,48,Female,Finance,Technician,Bachelor's,18,6,10,15824,2,1,No
+10895,Employee_895,54,Female,Operations,Consultant,Bachelor's,29,7,67,15444,4,3,Yes
+10896,Employee_896,25,Male,Operations,Executive,Bachelor's,1,12,68,14879,3,1,No
+10897,Employee_897,43,Female,Sales,Consultant,Bachelor's,27,6,0,18112,4,2,No
+10898,Employee_898,23,Male,Sales,Consultant,High School,2,10,62,2539,3,2,Yes
+10899,Employee_899,31,Female,Operations,Manager,Bachelor's,10,13,28,12974,4,4,Yes
+10900,Employee_900,26,Female,HR,Executive,Master's,5,12,11,15846,3,1,Yes
+10901,Employee_901,31,Male,Operations,Executive,Master's,28,14,76,7615,1,2,Yes
+10902,Employee_902,54,Male,R&D,Analyst,Bachelor's,13,3,40,18016,3,2,No
+10903,Employee_903,59,Male,Operations,Consultant,Bachelor's,18,7,1,4956,3,1,No
+10904,Employee_904,34,Male,IT,Executive,High School,25,14,36,10077,4,2,No
+10905,Employee_905,52,Male,IT,Analyst,Bachelor's,15,4,44,5722,4,3,No
+10906,Employee_906,57,Female,IT,Engineer,High School,20,9,79,14059,4,2,No
+10907,Employee_907,45,Female,HR,Analyst,PhD,21,8,47,7087,2,1,No
+10908,Employee_908,36,Male,HR,Technician,High School,23,11,23,12338,2,3,Yes
+10909,Employee_909,50,Male,Operations,Manager,High School,6,11,21,4170,3,3,No
+10910,Employee_910,29,Male,IT,Engineer,Master's,29,9,10,5391,3,2,No
+10911,Employee_911,26,Female,HR,Engineer,Master's,26,4,57,8942,1,4,Yes
+10912,Employee_912,50,Male,Sales,Technician,Master's,7,0,45,15806,1,3,No
+10913,Employee_913,25,Female,Operations,Analyst,High School,18,11,28,16792,3,1,No
+10914,Employee_914,33,Female,R&D,Manager,High School,19,8,34,14809,2,4,No
+10915,Employee_915,23,Female,Finance,Analyst,Bachelor's,15,11,14,16855,3,4,Yes
+10916,Employee_916,48,Female,Operations,Executive,High School,21,4,59,11108,1,3,No
+10917,Employee_917,52,Male,Finance,Analyst,High School,26,5,41,8458,2,2,No
+10918,Employee_918,57,Non-Binary,IT,Engineer,Bachelor's,6,3,42,4756,2,4,No
+10919,Employee_919,57,Male,Finance,Manager,Master's,8,5,79,8853,1,2,No
+10920,Employee_920,47,Male,IT,Analyst,Bachelor's,12,11,73,9709,3,3,No
+10921,Employee_921,48,Female,Sales,Manager,Bachelor's,0,7,48,14847,4,1,Yes
+10922,Employee_922,26,Non-Binary,Finance,Manager,Bachelor's,28,2,63,19352,3,4,No
+10923,Employee_923,41,Female,Operations,Executive,Bachelor's,7,4,31,9297,3,1,No
+10924,Employee_924,32,Male,IT,Executive,Bachelor's,23,1,63,18256,1,2,Yes
+10925,Employee_925,31,Male,Operations,Engineer,Bachelor's,21,13,1,5203,2,2,Yes
+10926,Employee_926,59,Non-Binary,HR,Technician,High School,3,1,23,8499,1,1,No
+10927,Employee_927,27,Male,IT,Manager,Master's,2,12,65,7173,3,3,No
+10928,Employee_928,29,Female,Finance,Technician,High School,26,6,37,19273,4,3,Yes
+10929,Employee_929,44,Female,IT,Engineer,PhD,2,9,30,13650,4,4,No
+10930,Employee_930,47,Female,Operations,Manager,High School,21,12,25,11173,4,4,No
+10931,Employee_931,33,Male,Sales,Manager,Bachelor's,12,9,28,9382,1,3,No
+10932,Employee_932,47,Female,IT,Consultant,Bachelor's,7,13,66,2801,2,3,No
+10933,Employee_933,34,Male,Finance,Technician,High School,6,10,77,10234,1,1,No
+10934,Employee_934,39,Female,HR,Analyst,High School,26,9,24,15897,4,2,No
+10935,Employee_935,46,Female,R&D,Executive,Bachelor's,0,5,47,17197,3,2,No
+10936,Employee_936,54,Female,Sales,Analyst,Master's,26,3,64,11969,2,4,No
+10937,Employee_937,33,Male,HR,Technician,Master's,15,4,52,5201,1,3,Yes
+10938,Employee_938,57,Non-Binary,IT,Executive,Bachelor's,5,0,66,18733,1,1,No
+10939,Employee_939,25,Male,Operations,Analyst,Master's,6,6,17,11972,2,4,No
+10940,Employee_940,26,Male,Operations,Consultant,Bachelor's,11,7,8,2583,2,1,No
+10941,Employee_941,58,Male,Finance,Executive,Master's,22,8,37,14719,3,3,No
+10942,Employee_942,29,Female,Operations,Manager,Bachelor's,8,7,20,5377,2,3,No
+10943,Employee_943,49,Female,Sales,Analyst,Bachelor's,26,4,64,16855,3,3,Yes
+10944,Employee_944,52,Female,Operations,Executive,Master's,10,2,20,5401,4,2,No
+10945,Employee_945,30,Male,Finance,Consultant,Bachelor's,9,9,26,15636,4,3,Yes
+10946,Employee_946,50,Male,R&D,Executive,Master's,20,10,69,17738,1,4,No
+10947,Employee_947,35,Female,IT,Executive,Bachelor's,0,8,43,8772,4,2,No
+10948,Employee_948,43,Male,IT,Consultant,High School,17,14,27,12131,4,1,No
+10949,Employee_949,32,Female,Operations,Analyst,High School,3,5,44,2788,3,4,No
+10950,Employee_950,44,Non-Binary,HR,Engineer,Bachelor's,4,14,16,18184,1,4,No
+10951,Employee_951,22,Non-Binary,IT,Analyst,Bachelor's,8,4,39,4889,2,1,No
+10952,Employee_952,58,Non-Binary,R&D,Technician,Master's,26,12,2,11569,1,2,No
+10953,Employee_953,42,Female,Operations,Consultant,High School,16,2,75,12141,4,4,No
+10954,Employee_954,47,Male,Finance,Analyst,Master's,2,5,75,13934,2,4,No
+10955,Employee_955,57,Male,R&D,Executive,Master's,15,2,65,11769,1,4,Yes
+10956,Employee_956,44,Female,Operations,Consultant,High School,4,9,45,9612,1,2,Yes
+10957,Employee_957,22,Female,R&D,Manager,Master's,15,11,29,18205,1,2,Yes
+10958,Employee_958,36,Male,IT,Analyst,PhD,2,5,68,15934,1,2,Yes
+10959,Employee_959,42,Male,Finance,Consultant,Master's,19,3,8,12095,3,4,No
+10960,Employee_960,30,Male,Operations,Analyst,Master's,14,14,10,6240,1,3,No
+10961,Employee_961,30,Female,Sales,Consultant,PhD,29,1,68,12748,4,1,No
+10962,Employee_962,31,Female,Finance,Executive,Bachelor's,2,7,65,7298,4,3,Yes
+10963,Employee_963,47,Female,Sales,Manager,Bachelor's,19,3,30,3861,3,2,No
+10964,Employee_964,56,Male,R&D,Manager,Master's,13,8,32,16142,2,4,No
+10965,Employee_965,46,Non-Binary,HR,Technician,Bachelor's,15,6,38,9320,2,4,Yes
+10966,Employee_966,47,Female,Finance,Consultant,Bachelor's,28,11,45,13367,4,3,No
+10967,Employee_967,32,Male,R&D,Analyst,Bachelor's,28,1,36,19482,4,3,No
+10968,Employee_968,59,Male,Sales,Manager,Master's,16,3,59,7247,3,1,No
+10969,Employee_969,23,Male,IT,Manager,High School,27,4,30,3734,2,4,No
+10970,Employee_970,28,Male,IT,Engineer,Master's,23,2,10,6663,2,3,No
+10971,Employee_971,39,Non-Binary,HR,Engineer,Bachelor's,19,8,1,7909,1,1,Yes
+10972,Employee_972,48,Female,Finance,Manager,High School,22,12,26,14818,1,2,No
+10973,Employee_973,55,Female,Finance,Consultant,Bachelor's,17,4,1,19064,1,3,No
+10974,Employee_974,48,Male,Finance,Technician,High School,17,1,20,10163,3,2,No
+10975,Employee_975,38,Male,R&D,Manager,Bachelor's,21,10,57,15358,4,1,No
+10976,Employee_976,45,Female,HR,Executive,Master's,13,2,4,8668,3,2,No
+10977,Employee_977,46,Male,Finance,Analyst,Master's,17,13,51,15016,2,4,No
+10978,Employee_978,28,Female,R&D,Technician,High School,14,14,44,10001,4,4,No
+10979,Employee_979,27,Non-Binary,IT,Executive,High School,14,8,19,11921,1,2,No
+10980,Employee_980,45,Female,Sales,Technician,Master's,5,6,60,4191,3,4,No
+10981,Employee_981,54,Female,R&D,Executive,Master's,26,1,37,10859,3,1,No
+10982,Employee_982,50,Male,IT,Analyst,Bachelor's,14,8,19,10872,1,4,No
+10983,Employee_983,43,Male,IT,Analyst,Bachelor's,17,13,24,6922,3,2,No
+10984,Employee_984,47,Male,Sales,Engineer,Bachelor's,3,3,1,6392,1,2,No
+10985,Employee_985,49,Female,IT,Consultant,Master's,22,12,31,15541,2,2,Yes
+10986,Employee_986,42,Male,HR,Executive,Bachelor's,7,8,25,17015,4,3,No
+10987,Employee_987,28,Male,Sales,Engineer,Bachelor's,14,14,69,5227,2,2,No
+10988,Employee_988,38,Female,IT,Executive,Bachelor's,2,12,40,4024,2,1,Yes
+10989,Employee_989,41,Male,Operations,Engineer,Master's,29,1,66,18713,1,4,No
+10990,Employee_990,41,Male,R&D,Analyst,High School,14,14,0,4486,3,4,No
+10991,Employee_991,43,Male,IT,Technician,Bachelor's,12,11,50,3155,2,3,Yes
+10992,Employee_992,49,Non-Binary,HR,Engineer,Bachelor's,8,9,4,12082,2,3,No
+10993,Employee_993,28,Female,Finance,Executive,High School,1,11,12,6477,2,1,No
+10994,Employee_994,22,Female,IT,Executive,High School,23,3,18,9086,3,2,No
+10995,Employee_995,53,Male,Finance,Consultant,Master's,7,4,11,4317,3,3,No
+10996,Employee_996,34,Non-Binary,Operations,Analyst,Master's,28,1,47,5621,1,4,No
+10997,Employee_997,51,Female,IT,Executive,Master's,29,9,24,6491,2,3,No
+10998,Employee_998,44,Male,Sales,Manager,Master's,19,0,56,17916,4,3,Yes
+10999,Employee_999,40,Female,Finance,Technician,Bachelor's,16,6,34,17248,3,2,Yes
+11000,Employee_1000,53,Male,Operations,Engineer,Master's,12,9,75,4511,1,3,No
